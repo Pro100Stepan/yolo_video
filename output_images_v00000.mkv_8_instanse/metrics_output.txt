@@ -1,0 +1,1924 @@
+﻿Кадр: frame_0.jpg
+  Маска 0: traffic light, Уверенность: 0.67, Координаты: (846, 1), (1918, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_0_mask_0_traffic light.png
+
+Кадр: frame_25.jpg
+  Маска 0: traffic light, Уверенность: 0.71, Координаты: (846, 1), (1917, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25_mask_0_traffic light.png
+
+Кадр: frame_50.jpg
+  Маска 0: traffic light, Уверенность: 0.42, Координаты: (843, 1), (1918, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_50_mask_0_traffic light.png
+
+Кадр: frame_75.jpg
+  Маска 0: traffic light, Уверенность: 0.39, Координаты: (845, 0), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_75_mask_0_traffic light.png
+
+Кадр: frame_100.jpg
+  Маска 0: traffic light, Уверенность: 0.55, Координаты: (844, 1), (1918, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_100_mask_0_traffic light.png
+
+Кадр: frame_125.jpg
+  Маска 0: traffic light, Уверенность: 0.33, Координаты: (842, 0), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_125_mask_0_traffic light.png
+
+Кадр: frame_150.jpg
+  Маска 0: traffic light, Уверенность: 0.47, Координаты: (846, 1), (1918, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_150_mask_0_traffic light.png
+
+Кадр: frame_175.jpg
+  Маска 0: traffic light, Уверенность: 0.41, Координаты: (843, 0), (1918, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_175_mask_0_traffic light.png
+
+Кадр: frame_200.jpg
+  Маска 0: traffic light, Уверенность: 0.52, Координаты: (846, 1), (1918, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_200_mask_0_traffic light.png
+
+Кадр: frame_225.jpg
+  Маска 0: traffic light, Уверенность: 0.59, Координаты: (844, 1), (1917, 1024), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_225_mask_0_traffic light.png
+
+Кадр: frame_250.jpg
+  Маска 0: traffic light, Уверенность: 0.56, Координаты: (847, 1), (1918, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_250_mask_0_traffic light.png
+
+Кадр: frame_275.jpg
+  Маска 0: traffic light, Уверенность: 0.49, Координаты: (846, 1), (1918, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_275_mask_0_traffic light.png
+
+Кадр: frame_300.jpg
+  Маска 0: traffic light, Уверенность: 0.40, Координаты: (845, 1), (1918, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_300_mask_0_traffic light.png
+
+Кадр: frame_325.jpg
+  Маска 0: traffic light, Уверенность: 0.46, Координаты: (845, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_325_mask_0_traffic light.png
+
+Кадр: frame_350.jpg
+  Маска 0: traffic light, Уверенность: 0.32, Координаты: (845, 1), (1918, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_350_mask_0_traffic light.png
+
+Кадр: frame_375.jpg
+  Маска 0: traffic light, Уверенность: 0.48, Координаты: (846, 1), (1917, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_375_mask_0_traffic light.png
+
+Кадр: frame_400.jpg
+  Маска 0: traffic light, Уверенность: 0.26, Координаты: (847, 1), (1917, 1024), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_400_mask_0_traffic light.png
+
+Кадр: frame_425.jpg
+  Маска 0: traffic light, Уверенность: 0.43, Координаты: (847, 1), (1917, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_425_mask_0_traffic light.png
+
+Кадр: frame_450.jpg
+  Маска 0: traffic light, Уверенность: 0.34, Координаты: (846, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_450_mask_0_traffic light.png
+
+Кадр: frame_475.jpg
+  Маска 0: traffic light, Уверенность: 0.45, Координаты: (844, 1), (1918, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_475_mask_0_traffic light.png
+
+Кадр: frame_500.jpg
+  Маска 0: traffic light, Уверенность: 0.43, Координаты: (844, 1), (1917, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_500_mask_0_traffic light.png
+
+Кадр: frame_525.jpg
+  Маска 0: traffic light, Уверенность: 0.41, Координаты: (842, 1), (1918, 1028), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_525_mask_0_traffic light.png
+
+Кадр: frame_550.jpg
+  Маска 0: traffic light, Уверенность: 0.41, Координаты: (842, 1), (1917, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_550_mask_0_traffic light.png
+
+Кадр: frame_575.jpg
+  Маска 0: traffic light, Уверенность: 0.42, Координаты: (843, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_575_mask_0_traffic light.png
+
+Кадр: frame_625.jpg
+  Маска 0: traffic light, Уверенность: 0.40, Координаты: (846, 1), (1917, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_625_mask_0_traffic light.png
+  Маска 1: traffic light, Уверенность: 0.32, Координаты: (839, 0), (1216, 800), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_625_mask_1_traffic light.png
+
+Кадр: frame_650.jpg
+  Маска 0: traffic light, Уверенность: 0.30, Координаты: (845, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_650_mask_0_traffic light.png
+
+Кадр: frame_700.jpg
+  Маска 0: traffic light, Уверенность: 0.59, Координаты: (844, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_700_mask_0_traffic light.png
+
+Кадр: frame_725.jpg
+  Маска 0: traffic light, Уверенность: 0.41, Координаты: (841, 1), (1917, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_725_mask_0_traffic light.png
+  Маска 1: skis, Уверенность: 0.33, Координаты: (48, 2), (241, 1011), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_725_mask_1_skis.png
+  Маска 2: traffic light, Уверенность: 0.31, Координаты: (838, 0), (1216, 791), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_725_mask_2_traffic light.png
+
+Кадр: frame_750.jpg
+  Маска 0: traffic light, Уверенность: 0.40, Координаты: (840, 1), (1917, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_750_mask_0_traffic light.png
+  Маска 1: car, Уверенность: 0.28, Координаты: (1731, 849), (1828, 880), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_750_mask_1_car.png
+
+Кадр: frame_775.jpg
+  Маска 0: traffic light, Уверенность: 0.32, Координаты: (842, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_775_mask_0_traffic light.png
+
+Кадр: frame_800.jpg
+  Маска 0: traffic light, Уверенность: 0.34, Координаты: (840, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_800_mask_0_traffic light.png
+
+Кадр: frame_825.jpg
+  Маска 0: traffic light, Уверенность: 0.31, Координаты: (841, 1), (1917, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_825_mask_0_traffic light.png
+
+Кадр: frame_850.jpg
+  Маска 0: traffic light, Уверенность: 0.47, Координаты: (840, 2), (1918, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_850_mask_0_traffic light.png
+
+Кадр: frame_875.jpg
+  Маска 0: traffic light, Уверенность: 0.32, Координаты: (839, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_875_mask_0_traffic light.png
+
+Кадр: frame_900.jpg
+  Маска 0: car, Уверенность: 0.27, Координаты: (44, 845), (166, 881), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_900_mask_0_car.png
+
+Кадр: frame_925.jpg
+  Маска 0: traffic light, Уверенность: 0.51, Координаты: (838, 2), (1917, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_925_mask_0_traffic light.png
+  Маска 1: car, Уверенность: 0.30, Координаты: (1721, 848), (1824, 881), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_925_mask_1_car.png
+
+Кадр: frame_950.jpg
+  Маска 0: traffic light, Уверенность: 0.35, Координаты: (836, 1), (1917, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_950_mask_0_traffic light.png
+
+Кадр: frame_975.jpg
+  Маска 0: traffic light, Уверенность: 0.36, Координаты: (833, 2), (1917, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_975_mask_0_traffic light.png
+
+Кадр: frame_1025.jpg
+  Маска 0: traffic light, Уверенность: 0.28, Координаты: (831, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1025_mask_0_traffic light.png
+
+Кадр: frame_1050.jpg
+  Маска 0: traffic light, Уверенность: 0.46, Координаты: (830, 2), (1917, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1050_mask_0_traffic light.png
+
+Кадр: frame_1075.jpg
+  Маска 0: traffic light, Уверенность: 0.33, Координаты: (831, 1), (1916, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1075_mask_0_traffic light.png
+
+Кадр: frame_1125.jpg
+  Маска 0: traffic light, Уверенность: 0.48, Координаты: (831, 2), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1125_mask_0_traffic light.png
+
+Кадр: frame_1150.jpg
+  Маска 0: traffic light, Уверенность: 0.46, Координаты: (829, 1), (1916, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1150_mask_0_traffic light.png
+
+Кадр: frame_1200.jpg
+  Маска 0: skis, Уверенность: 0.34, Координаты: (32, 2), (233, 934), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1200_mask_0_skis.png
+  Маска 1: traffic light, Уверенность: 0.29, Координаты: (829, 2), (1916, 1024), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1200_mask_1_traffic light.png
+
+Кадр: frame_1225.jpg
+  Маска 0: traffic light, Уверенность: 0.36, Координаты: (829, 2), (1916, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1225_mask_0_traffic light.png
+
+Кадр: frame_1250.jpg
+  Маска 0: skis, Уверенность: 0.32, Координаты: (35, 2), (233, 931), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1250_mask_0_skis.png
+  Маска 1: traffic light, Уверенность: 0.28, Координаты: (830, 1), (1916, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1250_mask_1_traffic light.png
+
+Кадр: frame_1275.jpg
+  Маска 0: traffic light, Уверенность: 0.42, Координаты: (831, 2), (1916, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1275_mask_0_traffic light.png
+
+Кадр: frame_1300.jpg
+  Маска 0: traffic light, Уверенность: 0.50, Координаты: (831, 2), (1916, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1300_mask_0_traffic light.png
+
+Кадр: frame_1325.jpg
+  Маска 0: traffic light, Уверенность: 0.38, Координаты: (833, 2), (1917, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1325_mask_0_traffic light.png
+
+Кадр: frame_1350.jpg
+  Маска 0: traffic light, Уверенность: 0.54, Координаты: (836, 2), (1916, 1028), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1350_mask_0_traffic light.png
+
+Кадр: frame_1375.jpg
+  Маска 0: traffic light, Уверенность: 0.50, Координаты: (836, 2), (1917, 1028), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1375_mask_0_traffic light.png
+
+Кадр: frame_1400.jpg
+  Маска 0: traffic light, Уверенность: 0.42, Координаты: (837, 2), (1918, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1400_mask_0_traffic light.png
+
+Кадр: frame_1425.jpg
+  Маска 0: traffic light, Уверенность: 0.41, Координаты: (839, 2), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1425_mask_0_traffic light.png
+
+Кадр: frame_1450.jpg
+  Маска 0: traffic light, Уверенность: 0.51, Координаты: (838, 2), (1917, 1028), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1450_mask_0_traffic light.png
+  Маска 1: car, Уверенность: 0.26, Координаты: (1725, 849), (1823, 880), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1450_mask_1_car.png
+
+Кадр: frame_1475.jpg
+  Маска 0: traffic light, Уверенность: 0.43, Координаты: (837, 2), (1917, 1028), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1475_mask_0_traffic light.png
+
+Кадр: frame_1500.jpg
+  Маска 0: car, Уверенность: 0.32, Координаты: (44, 845), (166, 880), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1500_mask_0_car.png
+  Маска 1: traffic light, Уверенность: 0.32, Координаты: (837, 1), (1917, 1028), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1500_mask_1_traffic light.png
+
+Кадр: frame_1525.jpg
+  Маска 0: traffic light, Уверенность: 0.37, Координаты: (838, 2), (1918, 1028), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1525_mask_0_traffic light.png
+
+Кадр: frame_1550.jpg
+  Маска 0: traffic light, Уверенность: 0.34, Координаты: (839, 1), (1917, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1550_mask_0_traffic light.png
+  Маска 1: car, Уверенность: 0.32, Координаты: (46, 845), (166, 880), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1550_mask_1_car.png
+
+Кадр: frame_1575.jpg
+  Маска 0: traffic light, Уверенность: 0.48, Координаты: (840, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1575_mask_0_traffic light.png
+
+Кадр: frame_1600.jpg
+  Маска 0: traffic light, Уверенность: 0.29, Координаты: (839, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1600_mask_0_traffic light.png
+
+Кадр: frame_1625.jpg
+  Маска 0: traffic light, Уверенность: 0.56, Координаты: (839, 1), (1918, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1625_mask_0_traffic light.png
+
+Кадр: frame_1650.jpg
+  Маска 0: traffic light, Уверенность: 0.50, Координаты: (839, 2), (1918, 1029), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1650_mask_0_traffic light.png
+
+Кадр: frame_1675.jpg
+  Маска 0: traffic light, Уверенность: 0.51, Координаты: (842, 1), (1918, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1675_mask_0_traffic light.png
+
+Кадр: frame_1700.jpg
+  Маска 0: traffic light, Уверенность: 0.58, Координаты: (843, 2), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1700_mask_0_traffic light.png
+
+Кадр: frame_1725.jpg
+  Маска 0: traffic light, Уверенность: 0.62, Координаты: (844, 2), (1918, 1027), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1725_mask_0_traffic light.png
+  Маска 1: traffic light, Уверенность: 0.26, Координаты: (840, 0), (1216, 788), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1725_mask_1_traffic light.png
+
+Кадр: frame_1750.jpg
+  Маска 0: traffic light, Уверенность: 0.46, Координаты: (843, 1), (1918, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1750_mask_0_traffic light.png
+
+Кадр: frame_1775.jpg
+  Маска 0: traffic light, Уверенность: 0.49, Координаты: (845, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1775_mask_0_traffic light.png
+  Маска 1: traffic light, Уверенность: 0.27, Координаты: (841, 0), (1216, 787), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1775_mask_1_traffic light.png
+
+Кадр: frame_1800.jpg
+  Маска 0: traffic light, Уверенность: 0.40, Координаты: (844, 1), (1917, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1800_mask_0_traffic light.png
+
+Кадр: frame_1825.jpg
+  Маска 0: traffic light, Уверенность: 0.63, Координаты: (846, 1), (1918, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1825_mask_0_traffic light.png
+  Маска 1: traffic light, Уверенность: 0.28, Координаты: (842, 1), (1216, 784), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1825_mask_1_traffic light.png
+
+Кадр: frame_1850.jpg
+  Маска 0: traffic light, Уверенность: 0.61, Координаты: (846, 1), (1918, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1850_mask_0_traffic light.png
+
+Кадр: frame_1875.jpg
+  Маска 0: traffic light, Уверенность: 0.64, Координаты: (846, 1), (1918, 1025), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1875_mask_0_traffic light.png
+
+Кадр: frame_1925.jpg
+  Маска 0: traffic light, Уверенность: 0.27, Координаты: (819, 1), (1914, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_1925_mask_0_traffic light.png
+
+Кадр: frame_2000.jpg
+  Маска 0: person, Уверенность: 0.45, Координаты: (1861, 518), (1919, 685), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2000_mask_0_person.png
+  Маска 1: snowboard, Уверенность: 0.45, Координаты: (1, 1), (1090, 1064), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2000_mask_1_snowboard.png
+
+Кадр: frame_2025.jpg
+  Маска 0: person, Уверенность: 0.84, Координаты: (564, 0), (701, 223), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2025_mask_0_person.png
+  Маска 1: truck, Уверенность: 0.66, Координаты: (911, 0), (1917, 303), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2025_mask_1_truck.png
+
+Кадр: frame_2050.jpg
+  Маска 0: truck, Уверенность: 0.48, Координаты: (901, 0), (1917, 307), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2050_mask_0_truck.png
+  Маска 1: person, Уверенность: 0.25, Координаты: (642, 0), (770, 204), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2050_mask_1_person.png
+
+Кадр: frame_2075.jpg
+  Маска 0: person, Уверенность: 0.46, Координаты: (1861, 602), (1918, 728), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2075_mask_0_person.png
+
+Кадр: frame_2100.jpg
+  Маска 0: skis, Уверенность: 0.32, Координаты: (785, 5), (1102, 1071), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2100_mask_0_skis.png
+
+Кадр: frame_2125.jpg
+  Маска 0: truck, Уверенность: 0.71, Координаты: (902, 0), (1916, 344), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2125_mask_0_truck.png
+  Маска 1: person, Уверенность: 0.58, Координаты: (992, 108), (1123, 261), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2125_mask_1_person.png
+  Маска 2: suitcase, Уверенность: 0.31, Координаты: (1407, 330), (1794, 531), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2125_mask_2_suitcase.png
+
+Кадр: frame_2150.jpg
+  Маска 0: person, Уверенность: 0.48, Координаты: (987, 111), (1117, 264), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2150_mask_0_person.png
+  Маска 1: truck, Уверенность: 0.43, Координаты: (872, 0), (1918, 334), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2150_mask_1_truck.png
+  Маска 2: truck, Уверенность: 0.30, Координаты: (1399, 102), (1919, 591), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2150_mask_2_truck.png
+
+Кадр: frame_2175.jpg
+  Маска 0: truck, Уверенность: 0.58, Координаты: (756, 1), (1514, 593), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2175_mask_0_truck.png
+  Маска 1: truck, Уверенность: 0.46, Координаты: (757, 1), (1915, 597), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2175_mask_1_truck.png
+  Маска 2: person, Уверенность: 0.44, Координаты: (987, 379), (1111, 525), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2175_mask_2_person.png
+  Маска 3: suitcase, Уверенность: 0.25, Координаты: (1397, 585), (1776, 795), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2175_mask_3_suitcase.png
+
+Кадр: frame_2200.jpg
+  Маска 0: truck, Уверенность: 0.69, Координаты: (754, 2), (1916, 645), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2200_mask_0_truck.png
+  Маска 1: truck, Уверенность: 0.31, Координаты: (756, 1), (1541, 643), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2200_mask_1_truck.png
+
+Кадр: frame_2225.jpg
+  Маска 0: truck, Уверенность: 0.61, Координаты: (937, 0), (1918, 262), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2225_mask_0_truck.png
+
+Кадр: frame_2250.jpg
+  Маска 0: cell phone, Уверенность: 0.26, Координаты: (940, 360), (1300, 768), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2250_mask_0_cell phone.png
+
+Кадр: frame_2275.jpg
+  Маска 0: cell phone, Уверенность: 0.48, Координаты: (936, 364), (1299, 771), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2275_mask_0_cell phone.png
+
+Кадр: frame_2300.jpg
+  Маска 0: cell phone, Уверенность: 0.45, Координаты: (935, 450), (1296, 862), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2300_mask_0_cell phone.png
+
+Кадр: frame_2325.jpg
+  Маска 0: car, Уверенность: 0.28, Координаты: (952, 0), (1917, 345), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2325_mask_0_car.png
+
+Кадр: frame_2350.jpg
+  Маска 0: suitcase, Уверенность: 0.50, Координаты: (933, 458), (1291, 868), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2350_mask_0_suitcase.png
+  Маска 1: car, Уверенность: 0.46, Координаты: (974, 0), (1918, 331), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2350_mask_1_car.png
+  Маска 2: suitcase, Уверенность: 0.32, Координаты: (2, 458), (1918, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2350_mask_2_suitcase.png
+  Маска 3: suitcase, Уверенность: 0.31, Координаты: (5, 682), (1916, 1067), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2350_mask_3_suitcase.png
+
+Кадр: frame_2375.jpg
+  Маска 0: suitcase, Уверенность: 0.44, Координаты: (4, 464), (1917, 1067), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2375_mask_0_suitcase.png
+  Маска 1: suitcase, Уверенность: 0.39, Координаты: (933, 462), (1290, 871), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2375_mask_1_suitcase.png
+  Маска 2: car, Уверенность: 0.37, Координаты: (968, 0), (1917, 336), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2375_mask_2_car.png
+  Маска 3: truck, Уверенность: 0.29, Координаты: (971, 0), (1917, 336), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2375_mask_3_truck.png
+
+Кадр: frame_2400.jpg
+  Маска 0: suitcase, Уверенность: 0.62, Координаты: (931, 465), (1289, 874), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2400_mask_0_suitcase.png
+  Маска 1: car, Уверенность: 0.44, Координаты: (971, 0), (1918, 373), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2400_mask_1_car.png
+  Маска 2: suitcase, Уверенность: 0.38, Координаты: (2, 466), (1918, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2400_mask_2_suitcase.png
+  Маска 3: suitcase, Уверенность: 0.29, Координаты: (5, 698), (1917, 1067), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2400_mask_3_suitcase.png
+  Маска 4: suitcase, Уверенность: 0.27, Координаты: (1378, 100), (1770, 306), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2400_mask_4_suitcase.png
+  Маска 5: truck, Уверенность: 0.26, Координаты: (989, 0), (1918, 373), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2400_mask_5_truck.png
+
+Кадр: frame_2425.jpg
+  Маска 0: suitcase, Уверенность: 0.52, Координаты: (929, 469), (1287, 878), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2425_mask_0_suitcase.png
+  Маска 1: car, Уверенность: 0.42, Координаты: (967, 0), (1918, 372), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2425_mask_1_car.png
+  Маска 2: suitcase, Уверенность: 0.37, Координаты: (3, 469), (1918, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2425_mask_2_suitcase.png
+  Маска 3: suitcase, Уверенность: 0.29, Координаты: (1375, 103), (1765, 311), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2425_mask_3_suitcase.png
+  Маска 4: suitcase, Уверенность: 0.27, Координаты: (5, 702), (1917, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2425_mask_4_suitcase.png
+
+Кадр: frame_2450.jpg
+  Маска 0: suitcase, Уверенность: 0.50, Координаты: (4, 472), (1917, 1067), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2450_mask_0_suitcase.png
+  Маска 1: car, Уверенность: 0.49, Координаты: (958, 0), (1918, 361), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2450_mask_1_car.png
+
+Кадр: frame_2475.jpg
+  Маска 0: car, Уверенность: 0.54, Координаты: (958, 0), (1918, 353), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2475_mask_0_car.png
+  Маска 1: suitcase, Уверенность: 0.37, Координаты: (3, 473), (1919, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2475_mask_1_suitcase.png
+  Маска 2: truck, Уверенность: 0.27, Координаты: (960, 0), (1919, 349), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2475_mask_2_truck.png
+  Маска 3: suitcase, Уверенность: 0.26, Координаты: (924, 475), (1283, 883), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2475_mask_3_suitcase.png
+
+Кадр: frame_2500.jpg
+  Маска 0: car, Уверенность: 0.48, Координаты: (963, 0), (1918, 373), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2500_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.33, Координаты: (964, 0), (1918, 373), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2500_mask_1_truck.png
+  Маска 2: suitcase, Уверенность: 0.30, Координаты: (925, 478), (1282, 885), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2500_mask_2_suitcase.png
+
+Кадр: frame_2525.jpg
+  Маска 0: truck, Уверенность: 0.35, Координаты: (988, 0), (1918, 381), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2525_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.31, Координаты: (969, 0), (1918, 381), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2525_mask_1_car.png
+  Маска 2: cell phone, Уверенность: 0.28, Координаты: (922, 482), (1279, 889), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2525_mask_2_cell phone.png
+
+Кадр: frame_2550.jpg
+  Маска 0: suitcase, Уверенность: 0.36, Координаты: (1366, 118), (1745, 322), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2550_mask_0_suitcase.png
+  Маска 1: truck, Уверенность: 0.36, Координаты: (1015, 0), (1918, 360), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2550_mask_1_truck.png
+
+Кадр: frame_2575.jpg
+  Маска 0: suitcase, Уверенность: 0.44, Координаты: (3, 486), (1917, 1067), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2575_mask_0_suitcase.png
+  Маска 1: suitcase, Уверенность: 0.41, Координаты: (1365, 122), (1746, 324), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2575_mask_1_suitcase.png
+  Маска 2: truck, Уверенность: 0.38, Координаты: (969, 0), (1918, 354), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2575_mask_2_truck.png
+  Маска 3: car, Уверенность: 0.32, Координаты: (960, 0), (1918, 355), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2575_mask_3_car.png
+
+Кадр: frame_2600.jpg
+  Маска 0: suitcase, Уверенность: 0.50, Координаты: (1364, 125), (1748, 327), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2600_mask_0_suitcase.png
+  Маска 1: suitcase, Уверенность: 0.43, Координаты: (4, 718), (1919, 1067), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2600_mask_1_suitcase.png
+  Маска 2: truck, Уверенность: 0.37, Координаты: (1080, 0), (1918, 383), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2600_mask_2_truck.png
+
+Кадр: frame_2625.jpg
+  Маска 0: suitcase, Уверенность: 0.60, Координаты: (918, 493), (1276, 904), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2625_mask_0_suitcase.png
+  Маска 1: suitcase, Уверенность: 0.52, Координаты: (6, 722), (1917, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2625_mask_1_suitcase.png
+  Маска 2: suitcase, Уверенность: 0.50, Координаты: (1363, 129), (1752, 331), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2625_mask_2_suitcase.png
+  Маска 3: truck, Уверенность: 0.38, Координаты: (977, 0), (1918, 388), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2625_mask_3_truck.png
+  Маска 4: car, Уверенность: 0.30, Координаты: (963, 0), (1918, 390), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2625_mask_4_car.png
+
+Кадр: frame_2650.jpg
+  Маска 0: truck, Уверенность: 0.49, Координаты: (956, 0), (1918, 392), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2650_mask_0_truck.png
+  Маска 1: cell phone, Уверенность: 0.40, Координаты: (917, 497), (1275, 906), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2650_mask_1_cell phone.png
+  Маска 2: suitcase, Уверенность: 0.30, Координаты: (1363, 131), (1767, 331), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2650_mask_2_suitcase.png
+  Маска 3: suitcase, Уверенность: 0.30, Координаты: (3, 497), (1918, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2650_mask_3_suitcase.png
+
+Кадр: frame_2675.jpg
+  Маска 0: truck, Уверенность: 0.46, Координаты: (989, 0), (1918, 395), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2675_mask_0_truck.png
+  Маска 1: suitcase, Уверенность: 0.32, Координаты: (3, 500), (1917, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2675_mask_1_suitcase.png
+  Маска 2: suitcase, Уверенность: 0.27, Координаты: (916, 500), (1273, 911), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2675_mask_2_suitcase.png
+
+Кадр: frame_2700.jpg
+  Маска 0: suitcase, Уверенность: 0.49, Координаты: (4, 504), (1917, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2700_mask_0_suitcase.png
+  Маска 1: truck, Уверенность: 0.48, Координаты: (993, 0), (1918, 405), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2700_mask_1_truck.png
+
+Кадр: frame_2725.jpg
+  Маска 0: truck, Уверенность: 0.41, Координаты: (1071, 0), (1917, 410), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2725_mask_0_truck.png
+  Маска 1: cell phone, Уверенность: 0.39, Координаты: (915, 506), (1270, 916), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2725_mask_1_cell phone.png
+
+Кадр: frame_2750.jpg
+  Маска 0: truck, Уверенность: 0.52, Координаты: (1075, 0), (1918, 409), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2750_mask_0_truck.png
+
+Кадр: frame_2775.jpg
+  Маска 0: truck, Уверенность: 0.56, Координаты: (953, 0), (1918, 415), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2775_mask_0_truck.png
+
+Кадр: frame_2800.jpg
+  Маска 0: suitcase, Уверенность: 0.51, Координаты: (911, 517), (1267, 926), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2800_mask_0_suitcase.png
+  Маска 1: truck, Уверенность: 0.39, Координаты: (970, 0), (1918, 417), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2800_mask_1_truck.png
+  Маска 2: suitcase, Уверенность: 0.26, Координаты: (3, 753), (1919, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2800_mask_2_suitcase.png
+  Маска 3: suitcase, Уверенность: 0.26, Координаты: (1357, 147), (1733, 354), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2800_mask_3_suitcase.png
+
+Кадр: frame_2825.jpg
+  Маска 0: suitcase, Уверенность: 0.52, Координаты: (910, 520), (1268, 929), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2825_mask_0_suitcase.png
+  Маска 1: truck, Уверенность: 0.50, Координаты: (975, 0), (1918, 415), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2825_mask_1_truck.png
+  Маска 2: suitcase, Уверенность: 0.30, Координаты: (1357, 150), (1734, 358), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2825_mask_2_suitcase.png
+  Маска 3: suitcase, Уверенность: 0.29, Координаты: (3, 755), (1920, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2825_mask_3_suitcase.png
+  Маска 4: suitcase, Уверенность: 0.26, Координаты: (3, 520), (1918, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2825_mask_4_suitcase.png
+
+Кадр: frame_2850.jpg
+  Маска 0: truck, Уверенность: 0.34, Координаты: (1038, 0), (1918, 431), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2850_mask_0_truck.png
+  Маска 1: cell phone, Уверенность: 0.32, Координаты: (911, 522), (1267, 931), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2850_mask_1_cell phone.png
+
+Кадр: frame_2875.jpg
+  Маска 0: truck, Уверенность: 0.56, Координаты: (961, 0), (1918, 433), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2875_mask_0_truck.png
+
+Кадр: frame_2900.jpg
+  Маска 0: truck, Уверенность: 0.32, Координаты: (1103, 0), (1917, 425), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2900_mask_0_truck.png
+
+Кадр: frame_2925.jpg
+  Маска 0: suitcase, Уверенность: 0.36, Координаты: (1355, 164), (1735, 358), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2925_mask_0_suitcase.png
+  Маска 1: truck, Уверенность: 0.29, Координаты: (1138, 0), (1918, 170), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2925_mask_1_truck.png
+
+Кадр: frame_2950.jpg
+  Маска 0: car, Уверенность: 0.31, Координаты: (1135, 0), (1916, 171), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_2950_mask_0_car.png
+
+Кадр: frame_3000.jpg
+  Маска 0: suitcase, Уверенность: 0.33, Координаты: (1352, 171), (1729, 372), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3000_mask_0_suitcase.png
+  Маска 1: suitcase, Уверенность: 0.33, Координаты: (906, 541), (1264, 954), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3000_mask_1_suitcase.png
+  Маска 2: person, Уверенность: 0.32, Координаты: (942, 0), (1063, 105), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3000_mask_2_person.png
+  Маска 3: truck, Уверенность: 0.26, Координаты: (1123, 0), (1919, 179), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3000_mask_3_truck.png
+
+Кадр: frame_3025.jpg
+  Маска 0: suitcase, Уверенность: 0.55, Координаты: (906, 543), (1264, 955), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3025_mask_0_suitcase.png
+  Маска 1: suitcase, Уверенность: 0.45, Координаты: (1351, 173), (1728, 375), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3025_mask_1_suitcase.png
+  Маска 2: person, Уверенность: 0.34, Координаты: (942, 0), (1062, 109), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3025_mask_2_person.png
+  Маска 3: suitcase, Уверенность: 0.30, Координаты: (3, 542), (1917, 1062), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3025_mask_3_suitcase.png
+
+Кадр: frame_3050.jpg
+  Маска 0: suitcase, Уверенность: 0.35, Координаты: (3, 545), (1917, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3050_mask_0_suitcase.png
+  Маска 1: suitcase, Уверенность: 0.32, Координаты: (1349, 177), (1733, 377), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3050_mask_1_suitcase.png
+  Маска 2: truck, Уверенность: 0.32, Координаты: (933, 0), (1918, 201), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3050_mask_2_truck.png
+  Маска 3: truck, Уверенность: 0.28, Координаты: (939, 0), (1918, 445), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3050_mask_3_truck.png
+
+Кадр: frame_3075.jpg
+  Маска 0: truck, Уверенность: 0.42, Координаты: (949, 0), (1918, 448), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3075_mask_0_truck.png
+
+Кадр: frame_3100.jpg
+  Маска 0: truck, Уверенность: 0.40, Координаты: (1097, 0), (1918, 196), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3100_mask_0_truck.png
+  Маска 1: person, Уверенность: 0.26, Координаты: (938, 0), (1062, 117), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3100_mask_1_person.png
+
+Кадр: frame_3125.jpg
+  Маска 0: person, Уверенность: 0.52, Координаты: (940, 0), (1062, 120), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3125_mask_0_person.png
+  Маска 1: truck, Уверенность: 0.38, Координаты: (1093, 0), (1919, 201), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3125_mask_1_truck.png
+  Маска 2: cell phone, Уверенность: 0.30, Координаты: (906, 555), (1261, 966), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3125_mask_2_cell phone.png
+  Маска 3: suitcase, Уверенность: 0.29, Координаты: (1350, 185), (1734, 388), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3125_mask_3_suitcase.png
+
+Кадр: frame_3150.jpg
+  Маска 0: person, Уверенность: 0.63, Координаты: (939, 0), (1064, 123), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3150_mask_0_person.png
+  Маска 1: truck, Уверенность: 0.41, Координаты: (1095, 0), (1918, 199), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3150_mask_1_truck.png
+
+Кадр: frame_3175.jpg
+  Маска 0: person, Уверенность: 0.42, Координаты: (940, 0), (1064, 127), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3175_mask_0_person.png
+  Маска 1: truck, Уверенность: 0.35, Координаты: (1064, 0), (1919, 448), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3175_mask_1_truck.png
+  Маска 2: suitcase, Уверенность: 0.28, Координаты: (1349, 191), (1729, 391), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3175_mask_2_suitcase.png
+  Маска 3: cell phone, Уверенность: 0.26, Координаты: (904, 561), (1262, 966), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3175_mask_3_cell phone.png
+  Маска 4: suitcase, Уверенность: 0.25, Координаты: (6, 559), (1917, 1064), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3175_mask_4_suitcase.png
+
+Кадр: frame_3200.jpg
+  Маска 0: person, Уверенность: 0.71, Координаты: (939, 0), (1062, 129), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3200_mask_0_person.png
+  Маска 1: suitcase, Уверенность: 0.55, Координаты: (4, 563), (1916, 1062), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3200_mask_1_suitcase.png
+  Маска 2: truck, Уверенность: 0.55, Координаты: (1058, 0), (1920, 212), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3200_mask_2_truck.png
+  Маска 3: suitcase, Уверенность: 0.46, Координаты: (905, 564), (1260, 976), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3200_mask_3_suitcase.png
+  Маска 4: suitcase, Уверенность: 0.34, Координаты: (1348, 191), (1734, 398), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3200_mask_4_suitcase.png
+
+Кадр: frame_3225.jpg
+  Маска 0: person, Уверенность: 0.68, Координаты: (938, 0), (1061, 130), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3225_mask_0_person.png
+  Маска 1: suitcase, Уверенность: 0.53, Координаты: (5, 567), (1916, 1062), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3225_mask_1_suitcase.png
+  Маска 2: truck, Уверенность: 0.50, Координаты: (1051, 0), (1920, 209), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3225_mask_2_truck.png
+  Маска 3: suitcase, Уверенность: 0.46, Координаты: (1346, 197), (1732, 399), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3225_mask_3_suitcase.png
+  Маска 4: suitcase, Уверенность: 0.31, Координаты: (903, 568), (1259, 979), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3225_mask_4_suitcase.png
+
+Кадр: frame_3250.jpg
+  Маска 0: truck, Уверенность: 0.60, Координаты: (1033, 0), (1918, 217), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3250_mask_0_truck.png
+  Маска 1: person, Уверенность: 0.53, Координаты: (937, 0), (1060, 131), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3250_mask_1_person.png
+  Маска 2: suitcase, Уверенность: 0.28, Координаты: (4, 569), (1913, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3250_mask_2_suitcase.png
+  Маска 3: suitcase, Уверенность: 0.27, Координаты: (1345, 199), (1730, 400), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3250_mask_3_suitcase.png
+
+Кадр: frame_3275.jpg
+  Маска 0: suitcase, Уверенность: 0.54, Координаты: (4, 573), (1916, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3275_mask_0_suitcase.png
+  Маска 1: truck, Уверенность: 0.46, Координаты: (1003, 0), (1918, 466), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3275_mask_1_truck.png
+  Маска 2: person, Уверенность: 0.44, Координаты: (937, 0), (1060, 135), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3275_mask_2_person.png
+  Маска 3: suitcase, Уверенность: 0.41, Координаты: (1345, 203), (1727, 405), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3275_mask_3_suitcase.png
+
+Кадр: frame_3300.jpg
+  Маска 0: person, Уверенность: 0.59, Координаты: (935, 0), (1061, 141), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3300_mask_0_person.png
+  Маска 1: truck, Уверенность: 0.52, Координаты: (1005, 0), (1918, 456), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3300_mask_1_truck.png
+
+Кадр: frame_3325.jpg
+  Маска 0: truck, Уверенность: 0.59, Координаты: (978, 0), (1919, 223), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3325_mask_0_truck.png
+  Маска 1: person, Уверенность: 0.57, Координаты: (929, 0), (1059, 143), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3325_mask_1_person.png
+  Маска 2: suitcase, Уверенность: 0.43, Координаты: (5, 577), (1913, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3325_mask_2_suitcase.png
+  Маска 3: suitcase, Уверенность: 0.30, Координаты: (1343, 209), (1731, 406), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3325_mask_3_suitcase.png
+
+Кадр: frame_3350.jpg
+  Маска 0: person, Уверенность: 0.72, Координаты: (929, 0), (1057, 148), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3350_mask_0_person.png
+  Маска 1: truck, Уверенность: 0.31, Координаты: (983, 0), (1918, 226), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3350_mask_1_truck.png
+  Маска 2: truck, Уверенность: 0.31, Координаты: (988, 0), (1918, 481), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3350_mask_2_truck.png
+
+Кадр: frame_3375.jpg
+  Маска 0: truck, Уверенность: 0.88, Координаты: (693, 1), (1916, 416), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3375_mask_0_truck.png
+  Маска 1: person, Уверенность: 0.63, Координаты: (935, 198), (1055, 348), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3375_mask_1_person.png
+  Маска 2: suitcase, Уверенность: 0.42, Координаты: (1339, 407), (1721, 604), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3375_mask_2_suitcase.png
+
+Кадр: frame_3400.jpg
+  Маска 0: truck, Уверенность: 0.78, Координаты: (705, 1), (1917, 694), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3400_mask_0_truck.png
+  Маска 1: person, Уверенность: 0.65, Координаты: (944, 478), (1058, 620), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3400_mask_1_person.png
+
+Кадр: frame_3425.jpg
+  Маска 0: truck, Уверенность: 0.73, Координаты: (691, 1), (1917, 447), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3425_mask_0_truck.png
+
+Кадр: frame_3450.jpg
+  Маска 0: suitcase, Уверенность: 0.47, Координаты: (3, 361), (1915, 1068), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3450_mask_0_suitcase.png
+
+Кадр: frame_3475.jpg
+  Маска 0: car, Уверенность: 0.40, Координаты: (1347, 0), (1918, 219), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3475_mask_0_car.png
+
+Кадр: frame_3500.jpg
+  Маска 0: cell phone, Уверенность: 0.54, Координаты: (895, 293), (1253, 697), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3500_mask_0_cell phone.png
+
+Кадр: frame_3525.jpg
+  Маска 0: cell phone, Уверенность: 0.55, Координаты: (897, 295), (1254, 700), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3525_mask_0_cell phone.png
+
+Кадр: frame_3550.jpg
+  Маска 0: cell phone, Уверенность: 0.35, Координаты: (894, 301), (1254, 703), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3550_mask_0_cell phone.png
+  Маска 1: suitcase, Уверенность: 0.25, Координаты: (4, 299), (1914, 1064), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3550_mask_1_suitcase.png
+
+Кадр: frame_3575.jpg
+  Маска 0: suitcase, Уверенность: 0.62, Координаты: (896, 304), (1255, 708), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3575_mask_0_suitcase.png
+  Маска 1: suitcase, Уверенность: 0.51, Координаты: (4, 304), (1916, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3575_mask_1_suitcase.png
+
+Кадр: frame_3600.jpg
+  Маска 0: suitcase, Уверенность: 0.62, Координаты: (5, 556), (1915, 1068), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3600_mask_0_suitcase.png
+  Маска 1: cell phone, Уверенность: 0.62, Координаты: (899, 306), (1255, 712), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3600_mask_1_cell phone.png
+  Маска 2: suitcase, Уверенность: 0.57, Координаты: (899, 306), (1255, 710), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3600_mask_2_suitcase.png
+  Маска 3: suitcase, Уверенность: 0.44, Координаты: (5, 305), (1917, 1067), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3600_mask_3_suitcase.png
+
+Кадр: frame_3625.jpg
+  Маска 0: suitcase, Уверенность: 0.66, Координаты: (5, 558), (1915, 1068), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3625_mask_0_suitcase.png
+  Маска 1: suitcase, Уверенность: 0.65, Координаты: (898, 308), (1255, 712), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3625_mask_1_suitcase.png
+  Маска 2: cell phone, Уверенность: 0.45, Координаты: (897, 308), (1255, 714), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3625_mask_2_cell phone.png
+  Маска 3: suitcase, Уверенность: 0.44, Координаты: (5, 307), (1917, 1067), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3625_mask_3_suitcase.png
+
+Кадр: frame_3650.jpg
+  Маска 0: suitcase, Уверенность: 0.44, Координаты: (4, 312), (1917, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3650_mask_0_suitcase.png
+  Маска 1: cell phone, Уверенность: 0.41, Координаты: (900, 312), (1256, 716), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3650_mask_1_cell phone.png
+  Маска 2: suitcase, Уверенность: 0.26, Координаты: (2, 566), (1917, 1067), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3650_mask_2_suitcase.png
+
+Кадр: frame_3675.jpg
+  Маска 0: suitcase, Уверенность: 0.64, Координаты: (2, 564), (1916, 1070), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3675_mask_0_suitcase.png
+  Маска 1: suitcase, Уверенность: 0.59, Координаты: (900, 315), (1257, 718), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3675_mask_1_suitcase.png
+  Маска 2: suitcase, Уверенность: 0.42, Координаты: (2, 315), (1917, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3675_mask_2_suitcase.png
+  Маска 3: cell phone, Уверенность: 0.41, Координаты: (899, 315), (1256, 719), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3675_mask_3_cell phone.png
+  Маска 4: car, Уверенность: 0.31, Координаты: (1350, 0), (1917, 234), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3675_mask_4_car.png
+
+Кадр: frame_3750.jpg
+  Маска 0: skis, Уверенность: 0.46, Координаты: (0, 1), (1142, 1071), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3750_mask_0_skis.png
+  Маска 1: skis, Уверенность: 0.40, Координаты: (0, 0), (222, 1059), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3750_mask_1_skis.png
+
+Кадр: frame_3775.jpg
+  Маска 0: skis, Уверенность: 0.46, Координаты: (0, 0), (223, 1058), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3775_mask_0_skis.png
+
+Кадр: frame_3800.jpg
+  Маска 0: skis, Уверенность: 0.43, Координаты: (0, 0), (225, 1064), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3800_mask_0_skis.png
+
+Кадр: frame_3825.jpg
+  Маска 0: skis, Уверенность: 0.51, Координаты: (0, 0), (226, 1063), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3825_mask_0_skis.png
+
+Кадр: frame_3850.jpg
+  Маска 0: skis, Уверенность: 0.48, Координаты: (0, 0), (229, 1067), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3850_mask_0_skis.png
+
+Кадр: frame_3875.jpg
+  Маска 0: skis, Уверенность: 0.47, Координаты: (0, 0), (230, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3875_mask_0_skis.png
+
+Кадр: frame_3900.jpg
+  Маска 0: skis, Уверенность: 0.53, Координаты: (0, 0), (229, 1062), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3900_mask_0_skis.png
+  Маска 1: skis, Уверенность: 0.27, Координаты: (1, 0), (1138, 1067), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3900_mask_1_skis.png
+
+Кадр: frame_3925.jpg
+  Маска 0: skis, Уверенность: 0.53, Координаты: (0, 0), (230, 1060), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3925_mask_0_skis.png
+  Маска 1: skis, Уверенность: 0.28, Координаты: (1, 0), (1149, 1068), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3925_mask_1_skis.png
+
+Кадр: frame_3950.jpg
+  Маска 0: skis, Уверенность: 0.36, Координаты: (0, 1), (233, 1060), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3950_mask_0_skis.png
+  Маска 1: skis, Уверенность: 0.28, Координаты: (0, 0), (332, 1064), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3950_mask_1_skis.png
+
+Кадр: frame_3975.jpg
+  Маска 0: person, Уверенность: 0.27, Координаты: (1869, 852), (1919, 974), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_3975_mask_0_person.png
+
+Кадр: frame_4025.jpg
+  Маска 0: skis, Уверенность: 0.26, Координаты: (0, 2), (238, 1060), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4025_mask_0_skis.png
+
+Кадр: frame_4050.jpg
+  Маска 0: person, Уверенность: 0.33, Координаты: (1869, 861), (1919, 985), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4050_mask_0_person.png
+
+Кадр: frame_4075.jpg
+  Маска 0: skis, Уверенность: 0.33, Координаты: (0, 3), (247, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4075_mask_0_skis.png
+
+Кадр: frame_4100.jpg
+  Маска 0: skis, Уверенность: 0.32, Координаты: (0, 2), (254, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4100_mask_0_skis.png
+
+Кадр: frame_4175.jpg
+  Маска 0: skis, Уверенность: 0.35, Координаты: (0, 3), (240, 1059), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4175_mask_0_skis.png
+
+Кадр: frame_4225.jpg
+  Маска 0: skis, Уверенность: 0.33, Координаты: (0, 2), (243, 1062), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4225_mask_0_skis.png
+  Маска 1: skis, Уверенность: 0.31, Координаты: (1, 1), (357, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4225_mask_1_skis.png
+
+Кадр: frame_4275.jpg
+  Маска 0: skis, Уверенность: 0.37, Координаты: (0, 0), (400, 1063), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4275_mask_0_skis.png
+
+Кадр: frame_4300.jpg
+  Маска 0: skis, Уверенность: 0.51, Координаты: (0, 0), (414, 1063), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4300_mask_0_skis.png
+
+Кадр: frame_4325.jpg
+  Маска 0: skis, Уверенность: 0.57, Координаты: (1, 1), (429, 1063), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4325_mask_0_skis.png
+
+Кадр: frame_4350.jpg
+  Маска 0: skis, Уверенность: 0.31, Координаты: (1, 2), (347, 1064), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4350_mask_0_skis.png
+
+Кадр: frame_4400.jpg
+  Маска 0: train, Уверенность: 0.75, Координаты: (336, 0), (1914, 1031), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4400_mask_0_train.png
+
+Кадр: frame_4425.jpg
+  Маска 0: person, Уверенность: 0.74, Координаты: (1593, 1), (1918, 405), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4425_mask_0_person.png
+
+Кадр: frame_4450.jpg
+  Маска 0: person, Уверенность: 0.70, Координаты: (1167, 0), (1911, 597), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_4450_mask_0_person.png
+
+Кадр: frame_7650.jpg
+  Маска 0: airplane, Уверенность: 0.78, Координаты: (1293, 592), (1481, 648), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_7650_mask_0_airplane.png
+
+Кадр: frame_7775.jpg
+  Маска 0: airplane, Уверенность: 0.81, Координаты: (1279, 617), (1472, 673), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_7775_mask_0_airplane.png
+
+Кадр: frame_9975.jpg
+  Маска 0: umbrella, Уверенность: 0.37, Координаты: (67, 100), (341, 529), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_9975_mask_0_umbrella.png
+
+Кадр: frame_10000.jpg
+  Маска 0: boat, Уверенность: 0.42, Координаты: (140, 147), (388, 554), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10000_mask_0_boat.png
+  Маска 1: boat, Уверенность: 0.28, Координаты: (443, 16), (873, 576), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10000_mask_1_boat.png
+  Маска 2: boat, Уверенность: 0.26, Координаты: (142, 13), (871, 579), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10000_mask_2_boat.png
+
+Кадр: frame_10025.jpg
+  Маска 0: chair, Уверенность: 0.40, Координаты: (279, 199), (351, 269), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10025_mask_0_chair.png
+  Маска 1: umbrella, Уверенность: 0.38, Координаты: (264, 397), (418, 576), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10025_mask_1_umbrella.png
+  Маска 2: umbrella, Уверенность: 0.38, Координаты: (370, 251), (457, 363), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10025_mask_2_umbrella.png
+  Маска 3: umbrella, Уверенность: 0.33, Координаты: (236, 256), (458, 550), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10025_mask_3_umbrella.png
+  Маска 4: umbrella, Уверенность: 0.28, Координаты: (319, 243), (439, 366), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10025_mask_4_umbrella.png
+
+Кадр: frame_10050.jpg
+  Маска 0: umbrella, Уверенность: 0.36, Координаты: (261, 236), (475, 603), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10050_mask_0_umbrella.png
+  Маска 1: boat, Уверенность: 0.28, Координаты: (262, 234), (476, 602), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10050_mask_1_boat.png
+
+Кадр: frame_10075.jpg
+  Маска 0: umbrella, Уверенность: 0.32, Координаты: (309, 446), (453, 618), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10075_mask_0_umbrella.png
+
+Кадр: frame_10125.jpg
+  Маска 0: umbrella, Уверенность: 0.36, Координаты: (374, 492), (514, 652), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10125_mask_0_umbrella.png
+  Маска 1: car, Уверенность: 0.35, Координаты: (0, 42), (47, 85), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10125_mask_1_car.png
+  Маска 2: car, Уверенность: 0.35, Координаты: (759, 324), (894, 456), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10125_mask_2_car.png
+  Маска 3: car, Уверенность: 0.26, Координаты: (42, 0), (102, 35), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10125_mask_3_car.png
+
+Кадр: frame_10150.jpg
+  Маска 0: car, Уверенность: 0.47, Координаты: (755, 353), (883, 474), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10150_mask_0_car.png
+  Маска 1: umbrella, Уверенность: 0.40, Координаты: (362, 461), (529, 661), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10150_mask_1_umbrella.png
+  Маска 2: car, Уверенность: 0.37, Координаты: (799, 0), (903, 74), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10150_mask_2_car.png
+  Маска 3: truck, Уверенность: 0.37, Координаты: (793, 4), (1035, 274), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10150_mask_3_truck.png
+  Маска 4: car, Уверенность: 0.34, Координаты: (394, 376), (525, 537), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10150_mask_4_car.png
+  Маска 5: car, Уверенность: 0.28, Координаты: (61, 24), (120, 71), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10150_mask_5_car.png
+  Маска 6: car, Уверенность: 0.25, Координаты: (12, 77), (67, 120), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10150_mask_6_car.png
+
+Кадр: frame_10175.jpg
+  Маска 0: car, Уверенность: 0.65, Координаты: (36, 111), (89, 154), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_0_car.png
+  Маска 1: car, Уверенность: 0.63, Координаты: (56, 86), (114, 136), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_1_car.png
+  Маска 2: car, Уверенность: 0.57, Координаты: (84, 61), (137, 108), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_2_car.png
+  Маска 3: car, Уверенность: 0.43, Координаты: (0, 161), (36, 199), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_3_car.png
+  Маска 4: person, Уверенность: 0.42, Координаты: (399, 388), (451, 440), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_4_person.png
+  Маска 5: car, Уверенность: 0.38, Координаты: (0, 200), (16, 229), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_5_car.png
+  Маска 6: umbrella, Уверенность: 0.36, Координаты: (403, 522), (533, 677), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_6_umbrella.png
+  Маска 7: car, Уверенность: 0.36, Координаты: (755, 379), (875, 492), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_7_car.png
+  Маска 8: car, Уверенность: 0.28, Координаты: (32, 329), (91, 378), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_8_car.png
+  Маска 9: truck, Уверенность: 0.27, Координаты: (793, 0), (897, 108), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_9_truck.png
+  Маска 10: car, Уверенность: 0.27, Координаты: (425, 415), (536, 555), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_10_car.png
+  Маска 11: person, Уверенность: 0.26, Координаты: (1402, 0), (1476, 49), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10175_mask_11_person.png
+
+Кадр: frame_10200.jpg
+  Маска 0: car, Уверенность: 0.69, Координаты: (108, 124), (162, 174), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_0_car.png
+  Маска 1: car, Уверенность: 0.67, Координаты: (85, 149), (137, 190), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_1_car.png
+  Маска 2: car, Уверенность: 0.65, Координаты: (133, 99), (183, 144), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_2_car.png
+  Маска 3: car, Уверенность: 0.45, Координаты: (1395, 33), (1450, 80), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_3_car.png
+  Маска 4: car, Уверенность: 0.42, Координаты: (1412, 7), (1470, 53), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_4_car.png
+  Маска 5: car, Уверенность: 0.40, Координаты: (15, 222), (70, 264), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_5_car.png
+  Маска 6: car, Уверенность: 0.39, Координаты: (43, 199), (88, 241), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_6_car.png
+  Маска 7: car, Уверенность: 0.36, Координаты: (0, 254), (46, 302), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_7_car.png
+  Маска 8: car, Уверенность: 0.33, Координаты: (443, 421), (565, 574), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_8_car.png
+  Маска 9: car, Уверенность: 0.33, Координаты: (459, 10), (525, 64), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_9_car.png
+  Маска 10: car, Уверенность: 0.32, Координаты: (86, 359), (141, 405), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_10_car.png
+  Маска 11: truck, Уверенность: 0.25, Координаты: (813, 21), (907, 142), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10200_mask_11_truck.png
+
+Кадр: frame_10225.jpg
+  Маска 0: car, Уверенность: 0.67, Координаты: (54, 249), (105, 291), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10225_mask_0_car.png
+  Маска 1: car, Уверенность: 0.54, Координаты: (119, 180), (168, 221), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10225_mask_1_car.png
+  Маска 2: car, Уверенность: 0.52, Координаты: (137, 156), (194, 204), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10225_mask_2_car.png
+  Маска 3: car, Уверенность: 0.49, Координаты: (23, 280), (83, 331), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10225_mask_3_car.png
+  Маска 4: car, Уверенность: 0.48, Координаты: (78, 228), (125, 261), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10225_mask_4_car.png
+  Маска 5: car, Уверенность: 0.43, Координаты: (163, 132), (213, 177), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10225_mask_5_car.png
+  Маска 6: car, Уверенность: 0.35, Координаты: (1397, 38), (1454, 82), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10225_mask_6_car.png
+  Маска 7: car, Уверенность: 0.30, Координаты: (0, 310), (50, 355), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10225_mask_7_car.png
+  Маска 8: car, Уверенность: 0.29, Координаты: (1380, 64), (1437, 110), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10225_mask_8_car.png
+  Маска 9: truck, Уверенность: 0.26, Координаты: (610, 362), (800, 551), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10225_mask_9_truck.png
+
+Кадр: frame_10250.jpg
+  Маска 0: car, Уверенность: 0.72, Координаты: (1373, 68), (1429, 109), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10250_mask_0_car.png
+  Маска 1: car, Уверенность: 0.65, Координаты: (1353, 92), (1411, 135), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10250_mask_1_car.png
+  Маска 2: car, Уверенность: 0.56, Координаты: (182, 160), (231, 203), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10250_mask_2_car.png
+  Маска 3: car, Уверенность: 0.47, Координаты: (78, 276), (125, 315), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10250_mask_3_car.png
+  Маска 4: car, Уверенность: 0.46, Координаты: (163, 186), (210, 229), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10250_mask_4_car.png
+  Маска 5: car, Уверенность: 0.45, Координаты: (141, 206), (188, 247), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10250_mask_5_car.png
+  Маска 6: car, Уверенность: 0.42, Координаты: (496, 475), (594, 602), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10250_mask_6_car.png
+  Маска 7: car, Уверенность: 0.40, Координаты: (101, 249), (145, 288), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10250_mask_7_car.png
+  Маска 8: car, Уверенность: 0.38, Координаты: (788, 437), (895, 543), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10250_mask_8_car.png
+  Маска 9: car, Уверенность: 0.31, Координаты: (46, 302), (105, 357), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10250_mask_9_car.png
+  Маска 10: car, Уверенность: 0.26, Координаты: (25, 328), (77, 384), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10250_mask_10_car.png
+
+Кадр: frame_10275.jpg
+  Маска 0: car, Уверенность: 0.63, Координаты: (108, 301), (157, 340), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10275_mask_0_car.png
+  Маска 1: car, Уверенность: 0.55, Координаты: (497, 472), (610, 612), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10275_mask_1_car.png
+  Маска 2: car, Уверенность: 0.50, Координаты: (1339, 119), (1393, 160), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10275_mask_2_car.png
+  Маска 3: car, Уверенность: 0.41, Координаты: (1356, 94), (1412, 138), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10275_mask_3_car.png
+  Маска 4: car, Уверенность: 0.38, Координаты: (119, 74), (194, 149), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10275_mask_4_car.png
+  Маска 5: car, Уверенность: 0.34, Координаты: (129, 275), (174, 314), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10275_mask_5_car.png
+  Маска 6: car, Уверенность: 0.33, Координаты: (176, 422), (223, 465), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10275_mask_6_car.png
+  Маска 7: person, Уверенность: 0.33, Координаты: (492, 470), (535, 515), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10275_mask_7_person.png
+  Маска 8: car, Уверенность: 0.31, Координаты: (64, 323), (137, 385), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10275_mask_8_car.png
+  Маска 9: car, Уверенность: 0.29, Координаты: (211, 189), (258, 230), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10275_mask_9_car.png
+
+Кадр: frame_10300.jpg
+  Маска 0: car, Уверенность: 0.40, Координаты: (99, 351), (154, 396), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10300_mask_0_car.png
+  Маска 1: car, Уверенность: 0.37, Координаты: (130, 327), (175, 362), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10300_mask_1_car.png
+  Маска 2: car, Уверенность: 0.29, Координаты: (507, 505), (616, 628), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10300_mask_2_car.png
+  Маска 3: car, Уверенность: 0.28, Координаты: (187, 257), (235, 297), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10300_mask_3_car.png
+  Маска 4: bench, Уверенность: 0.27, Координаты: (1319, 144), (1371, 184), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10300_mask_4_bench.png
+
+Кадр: frame_10325.jpg
+  Маска 0: car, Уверенность: 0.72, Координаты: (1321, 145), (1373, 185), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10325_mask_0_car.png
+  Маска 1: car, Уверенность: 0.62, Координаты: (1304, 167), (1356, 206), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10325_mask_1_car.png
+  Маска 2: umbrella, Уверенность: 0.55, Координаты: (526, 584), (632, 736), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10325_mask_2_umbrella.png
+  Маска 3: person, Уверенность: 0.44, Координаты: (1358, 31), (1378, 59), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10325_mask_3_person.png
+  Маска 4: car, Уверенность: 0.36, Координаты: (111, 362), (182, 420), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10325_mask_4_car.png
+  Маска 5: car, Уверенность: 0.31, Координаты: (157, 348), (200, 390), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10325_mask_5_car.png
+
+Кадр: frame_10350.jpg
+  Маска 0: car, Уверенность: 0.52, Координаты: (1314, 168), (1367, 208), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10350_mask_0_car.png
+  Маска 1: car, Уверенность: 0.42, Координаты: (542, 523), (648, 654), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10350_mask_1_car.png
+  Маска 2: car, Уверенность: 0.33, Координаты: (1300, 189), (1350, 230), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10350_mask_2_car.png
+  Маска 3: person, Уверенность: 0.31, Координаты: (1349, 55), (1367, 87), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10350_mask_3_person.png
+  Маска 4: truck, Уверенность: 0.28, Координаты: (700, 588), (904, 747), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10350_mask_4_truck.png
+
+Кадр: frame_10375.jpg
+  Маска 0: car, Уверенность: 0.58, Координаты: (1286, 191), (1339, 229), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10375_mask_0_car.png
+  Маска 1: person, Уверенность: 0.49, Координаты: (1319, 82), (1341, 113), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10375_mask_1_person.png
+  Маска 2: car, Уверенность: 0.49, Координаты: (1276, 210), (1324, 249), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10375_mask_2_car.png
+  Маска 3: car, Уверенность: 0.33, Координаты: (260, 497), (303, 542), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10375_mask_3_car.png
+
+Кадр: frame_10400.jpg
+  Маска 0: car, Уверенность: 0.61, Координаты: (1272, 212), (1318, 247), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10400_mask_0_car.png
+  Маска 1: car, Уверенность: 0.48, Координаты: (1258, 234), (1304, 270), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10400_mask_1_car.png
+  Маска 2: car, Уверенность: 0.43, Координаты: (213, 209), (278, 274), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10400_mask_2_car.png
+  Маска 3: umbrella, Уверенность: 0.35, Координаты: (0, 410), (32, 467), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10400_mask_3_umbrella.png
+
+Кадр: frame_10425.jpg
+  Маска 0: umbrella, Уверенность: 0.48, Координаты: (0, 416), (63, 513), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10425_mask_0_umbrella.png
+  Маска 1: car, Уверенность: 0.46, Координаты: (1250, 248), (1297, 285), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10425_mask_1_car.png
+  Маска 2: chair, Уверенность: 0.39, Координаты: (573, 636), (665, 760), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10425_mask_2_chair.png
+  Маска 3: chair, Уверенность: 0.30, Координаты: (580, 574), (659, 677), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10425_mask_3_chair.png
+  Маска 4: car, Уверенность: 0.27, Координаты: (1263, 227), (1311, 263), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10425_mask_4_car.png
+  Маска 5: car, Уверенность: 0.27, Координаты: (235, 228), (297, 292), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10425_mask_5_car.png
+  Маска 6: person, Уверенность: 0.27, Координаты: (296, 517), (337, 563), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10425_mask_6_person.png
+  Маска 7: chair, Уверенность: 0.26, Координаты: (563, 559), (628, 648), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10425_mask_7_chair.png
+
+Кадр: frame_10450.jpg
+  Маска 0: car, Уверенность: 0.45, Координаты: (54, 236), (173, 349), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10450_mask_0_car.png
+  Маска 1: person, Уверенность: 0.41, Координаты: (1320, 144), (1338, 171), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10450_mask_1_person.png
+  Маска 2: chair, Уверенность: 0.37, Координаты: (614, 634), (714, 770), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10450_mask_2_chair.png
+  Маска 3: truck, Уверенность: 0.37, Координаты: (55, 236), (173, 349), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10450_mask_3_truck.png
+  Маска 4: car, Уверенность: 0.29, Координаты: (627, 587), (705, 686), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10450_mask_4_car.png
+  Маска 5: truck, Уверенность: 0.27, Координаты: (522, 0), (660, 83), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10450_mask_5_truck.png
+  Маска 6: boat, Уверенность: 0.26, Координаты: (763, 748), (870, 858), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10450_mask_6_boat.png
+  Маска 7: truck, Уверенность: 0.26, Координаты: (66, 870), (180, 1001), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10450_mask_7_truck.png
+
+Кадр: frame_10475.jpg
+  Маска 0: person, Уверенность: 0.45, Координаты: (1268, 168), (1281, 192), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10475_mask_0_person.png
+  Маска 1: car, Уверенность: 0.40, Координаты: (1225, 283), (1271, 317), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10475_mask_1_car.png
+  Маска 2: truck, Уверенность: 0.40, Координаты: (668, 527), (893, 722), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10475_mask_2_truck.png
+  Маска 3: car, Уверенность: 0.37, Координаты: (580, 577), (670, 697), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10475_mask_3_car.png
+  Маска 4: car, Уверенность: 0.31, Координаты: (1235, 264), (1282, 295), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10475_mask_4_car.png
+  Маска 5: truck, Уверенность: 0.30, Координаты: (487, 0), (636, 102), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10475_mask_5_truck.png
+  Маска 6: truck, Уверенность: 0.26, Координаты: (488, 0), (830, 348), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10475_mask_6_truck.png
+  Маска 7: car, Уверенность: 0.25, Координаты: (811, 564), (891, 642), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10475_mask_7_car.png
+
+Кадр: frame_10500.jpg
+  Маска 0: umbrella, Уверенность: 0.45, Координаты: (0, 670), (75, 819), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10500_mask_0_umbrella.png
+  Маска 1: truck, Уверенность: 0.29, Координаты: (523, 0), (688, 126), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10500_mask_1_truck.png
+
+Кадр: frame_10525.jpg
+  Маска 0: truck, Уверенность: 0.35, Координаты: (490, 0), (671, 144), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10525_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.33, Координаты: (692, 0), (735, 18), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10525_mask_1_car.png
+  Маска 2: person, Уверенность: 0.32, Координаты: (1232, 207), (1247, 225), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10525_mask_2_person.png
+  Маска 3: car, Уверенность: 0.30, Координаты: (879, 74), (919, 119), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10525_mask_3_car.png
+  Маска 4: car, Уверенность: 0.26, Координаты: (591, 611), (673, 707), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10525_mask_4_car.png
+
+Кадр: frame_10550.jpg
+  Маска 0: car, Уверенность: 0.47, Координаты: (835, 593), (913, 662), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10550_mask_0_car.png
+  Маска 1: car, Уверенность: 0.30, Координаты: (0, 935), (31, 1004), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10550_mask_1_car.png
+  Маска 2: truck, Уверенность: 0.28, Координаты: (533, 0), (868, 396), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10550_mask_2_truck.png
+
+Кадр: frame_10575.jpg
+  Маска 0: umbrella, Уверенность: 0.35, Координаты: (99, 510), (174, 612), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10575_mask_0_umbrella.png
+  Маска 1: truck, Уверенность: 0.34, Координаты: (517, 0), (709, 185), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10575_mask_1_truck.png
+  Маска 2: truck, Уверенность: 0.30, Координаты: (531, 3), (845, 335), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10575_mask_2_truck.png
+  Маска 3: chair, Уверенность: 0.29, Координаты: (612, 674), (698, 793), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10575_mask_3_chair.png
+  Маска 4: person, Уверенность: 0.25, Координаты: (1226, 236), (1240, 257), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10575_mask_4_person.png
+
+Кадр: frame_10675.jpg
+  Маска 0: truck, Уверенность: 0.30, Координаты: (541, 7), (756, 324), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10675_mask_0_truck.png
+  Маска 1: truck, Уверенность: 0.27, Координаты: (0, 905), (77, 1057), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10675_mask_1_truck.png
+  Маска 2: car, Уверенность: 0.27, Координаты: (623, 662), (697, 753), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10675_mask_2_car.png
+
+Кадр: frame_10700.jpg
+  Маска 0: car, Уверенность: 0.37, Координаты: (159, 384), (253, 479), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10700_mask_0_car.png
+  Маска 1: car, Уверенность: 0.33, Координаты: (0, 937), (80, 1061), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10700_mask_1_car.png
+  Маска 2: truck, Уверенность: 0.26, Координаты: (0, 708), (154, 892), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10700_mask_2_truck.png
+
+Кадр: frame_10725.jpg
+  Маска 0: car, Уверенность: 0.32, Координаты: (621, 682), (688, 761), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10725_mask_0_car.png
+  Маска 1: car, Уверенность: 0.29, Координаты: (798, 660), (861, 720), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10725_mask_1_car.png
+  Маска 2: truck, Уверенность: 0.25, Координаты: (539, 46), (742, 285), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10725_mask_2_truck.png
+
+Кадр: frame_10750.jpg
+  Маска 0: car, Уверенность: 0.28, Координаты: (0, 947), (77, 1069), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10750_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.26, Координаты: (170, 910), (262, 1011), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10750_mask_1_truck.png
+
+Кадр: frame_10775.jpg
+  Маска 0: car, Уверенность: 0.53, Координаты: (718, 694), (785, 778), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10775_mask_0_car.png
+  Маска 1: car, Уверенность: 0.28, Координаты: (891, 678), (951, 735), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10775_mask_1_car.png
+
+Кадр: frame_10800.jpg
+  Маска 0: motorcycle, Уверенность: 0.34, Координаты: (1236, 448), (1279, 488), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10800_mask_0_motorcycle.png
+  Маска 1: car, Уверенность: 0.32, Координаты: (786, 230), (827, 275), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10800_mask_1_car.png
+
+Кадр: frame_10825.jpg
+  Маска 0: truck, Уверенность: 0.47, Координаты: (601, 144), (765, 330), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10825_mask_0_truck.png
+
+Кадр: frame_10850.jpg
+  Маска 0: car, Уверенность: 0.28, Координаты: (197, 444), (286, 532), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10850_mask_0_car.png
+  Маска 1: umbrella, Уверенность: 0.26, Координаты: (194, 604), (256, 693), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10850_mask_1_umbrella.png
+  Маска 2: car, Уверенность: 0.26, Координаты: (635, 710), (704, 794), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10850_mask_2_car.png
+
+Кадр: frame_10875.jpg
+  Маска 0: car, Уверенность: 0.25, Координаты: (884, 692), (944, 750), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10875_mask_0_car.png
+
+Кадр: frame_10900.jpg
+  Маска 0: truck, Уверенность: 0.46, Координаты: (600, 147), (765, 335), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10900_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.36, Координаты: (694, 716), (759, 797), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10900_mask_1_car.png
+
+Кадр: frame_10925.jpg
+  Маска 0: truck, Уверенность: 0.49, Координаты: (600, 101), (790, 335), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10925_mask_0_truck.png
+  Маска 1: truck, Уверенность: 0.29, Координаты: (600, 149), (763, 335), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10925_mask_1_truck.png
+
+Кадр: frame_10950.jpg
+  Маска 0: car, Уверенность: 0.26, Координаты: (269, 453), (356, 539), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10950_mask_0_car.png
+
+Кадр: frame_10975.jpg
+  Маска 0: truck, Уверенность: 0.48, Координаты: (699, 152), (860, 336), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10975_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.36, Координаты: (788, 706), (857, 795), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10975_mask_1_car.png
+  Маска 2: traffic light, Уверенность: 0.26, Координаты: (676, 76), (711, 113), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_10975_mask_2_traffic light.png
+
+Кадр: frame_11000.jpg
+  Маска 0: bicycle, Уверенность: 0.30, Координаты: (255, 645), (339, 725), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11000_mask_0_bicycle.png
+
+Кадр: frame_11025.jpg
+  Маска 0: car, Уверенность: 0.38, Координаты: (169, 441), (260, 530), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11025_mask_0_car.png
+
+Кадр: frame_11050.jpg
+  Маска 0: umbrella, Уверенность: 0.28, Координаты: (837, 836), (917, 910), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11050_mask_0_umbrella.png
+  Маска 1: traffic light, Уверенность: 0.26, Координаты: (301, 446), (387, 533), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11050_mask_1_traffic light.png
+
+Кадр: frame_11075.jpg
+  Маска 0: truck, Уверенность: 0.56, Координаты: (608, 94), (802, 329), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11075_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.29, Координаты: (730, 231), (777, 278), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11075_mask_1_car.png
+  Маска 2: bicycle, Уверенность: 0.29, Координаты: (686, 751), (755, 848), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11075_mask_2_bicycle.png
+
+Кадр: frame_11100.jpg
+  Маска 0: truck, Уверенность: 0.28, Координаты: (720, 193), (985, 469), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11100_mask_0_truck.png
+  Маска 1: truck, Уверенность: 0.27, Координаты: (707, 147), (870, 331), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11100_mask_1_truck.png
+  Маска 2: traffic light, Уверенность: 0.26, Координаты: (372, 443), (453, 528), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11100_mask_2_traffic light.png
+
+Кадр: frame_11125.jpg
+  Маска 0: truck, Уверенность: 0.28, Координаты: (670, 190), (941, 500), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11125_mask_0_truck.png
+  Маска 1: truck, Уверенность: 0.27, Координаты: (660, 145), (829, 329), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11125_mask_1_truck.png
+
+Кадр: frame_11150.jpg
+  Маска 0: truck, Уверенность: 0.25, Координаты: (642, 93), (837, 329), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11150_mask_0_truck.png
+
+Кадр: frame_11175.jpg
+  Маска 0: car, Уверенность: 0.26, Координаты: (741, 232), (781, 277), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11175_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.25, Координаты: (618, 95), (815, 328), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11175_mask_1_truck.png
+
+Кадр: frame_11200.jpg
+  Маска 0: truck, Уверенность: 0.50, Координаты: (654, 96), (849, 328), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11200_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.32, Координаты: (775, 231), (825, 281), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11200_mask_1_car.png
+  Маска 2: truck, Уверенность: 0.29, Координаты: (652, 141), (818, 327), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11200_mask_2_truck.png
+  Маска 3: truck, Уверенность: 0.28, Координаты: (684, 195), (934, 468), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11200_mask_3_truck.png
+  Маска 4: car, Уверенность: 0.26, Координаты: (717, 701), (787, 799), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11200_mask_4_car.png
+
+Кадр: frame_11225.jpg
+  Маска 0: car, Уверенность: 0.32, Координаты: (212, 418), (298, 508), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11225_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.26, Координаты: (211, 909), (301, 1007), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11225_mask_1_truck.png
+
+Кадр: frame_11275.jpg
+  Маска 0: car, Уверенность: 0.33, Координаты: (736, 66), (759, 84), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11275_mask_0_car.png
+  Маска 1: motorcycle, Уверенность: 0.29, Координаты: (1231, 470), (1276, 513), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11275_mask_1_motorcycle.png
+  Маска 2: car, Уверенность: 0.28, Координаты: (905, 692), (966, 750), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11275_mask_2_car.png
+
+Кадр: frame_11300.jpg
+  Маска 0: car, Уверенность: 0.27, Координаты: (675, 62), (709, 94), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11300_mask_0_car.png
+
+Кадр: frame_11325.jpg
+  Маска 0: truck, Уверенность: 0.26, Координаты: (736, 417), (909, 568), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11325_mask_0_truck.png
+
+Кадр: frame_11350.jpg
+  Маска 0: car, Уверенность: 0.26, Координаты: (778, 224), (830, 274), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11350_mask_0_car.png
+
+Кадр: frame_11375.jpg
+  Маска 0: car, Уверенность: 0.32, Координаты: (0, 821), (30, 884), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11375_mask_0_car.png
+
+Кадр: frame_11400.jpg
+  Маска 0: truck, Уверенность: 0.41, Координаты: (739, 193), (1011, 468), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11400_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.29, Координаты: (790, 701), (856, 781), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11400_mask_1_car.png
+  Маска 2: motorcycle, Уверенность: 0.29, Координаты: (1290, 469), (1333, 509), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11400_mask_2_motorcycle.png
+
+Кадр: frame_11425.jpg
+  Маска 0: car, Уверенность: 0.30, Координаты: (951, 69), (976, 88), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11425_mask_0_car.png
+  Маска 1: car, Уверенность: 0.26, Координаты: (957, 701), (1023, 795), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11425_mask_1_car.png
+  Маска 2: chair, Уверенность: 0.25, Координаты: (953, 751), (1023, 840), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11425_mask_2_chair.png
+
+Кадр: frame_11475.jpg
+  Маска 0: umbrella, Уверенность: 0.32, Координаты: (7, 757), (53, 797), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11475_mask_0_umbrella.png
+  Маска 1: traffic light, Уверенность: 0.32, Координаты: (648, 442), (727, 524), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11475_mask_1_traffic light.png
+  Маска 2: car, Уверенность: 0.25, Координаты: (1090, 232), (1133, 278), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11475_mask_2_car.png
+
+Кадр: frame_11525.jpg
+  Маска 0: car, Уверенность: 0.53, Координаты: (988, 89), (1011, 107), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11525_mask_0_car.png
+  Маска 1: umbrella, Уверенность: 0.37, Координаты: (0, 762), (42, 802), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11525_mask_1_umbrella.png
+  Маска 2: traffic light, Уверенность: 0.29, Координаты: (1385, 234), (1423, 280), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11525_mask_2_traffic light.png
+  Маска 3: car, Уверенность: 0.26, Координаты: (1164, 705), (1225, 763), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11525_mask_3_car.png
+
+Кадр: frame_11550.jpg
+  Маска 0: car, Уверенность: 0.38, Координаты: (888, 727), (951, 801), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11550_mask_0_car.png
+  Маска 1: traffic light, Уверенность: 0.35, Координаты: (508, 464), (589, 542), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11550_mask_1_traffic light.png
+  Маска 2: car, Уверенность: 0.25, Координаты: (1054, 715), (1114, 771), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11550_mask_2_car.png
+
+Кадр: frame_11575.jpg
+  Маска 0: person, Уверенность: 0.25, Координаты: (526, 400), (598, 473), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11575_mask_0_person.png
+
+Кадр: frame_11600.jpg
+  Маска 0: person, Уверенность: 0.32, Координаты: (1063, 442), (1164, 594), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11600_mask_0_person.png
+  Маска 1: car, Уверенность: 0.32, Координаты: (136, 948), (264, 1076), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11600_mask_1_car.png
+  Маска 2: bicycle, Уверенность: 0.28, Координаты: (669, 735), (741, 876), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11600_mask_2_bicycle.png
+
+Кадр: frame_11625.jpg
+  Маска 0: car, Уверенность: 0.49, Координаты: (0, 963), (39, 1035), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11625_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.32, Координаты: (455, 194), (614, 376), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11625_mask_1_truck.png
+  Маска 2: truck, Уверенность: 0.28, Координаты: (559, 470), (735, 622), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11625_mask_2_truck.png
+
+Кадр: frame_11650.jpg
+  Маска 0: traffic light, Уверенность: 0.25, Координаты: (454, 137), (488, 170), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11650_mask_0_traffic light.png
+
+Кадр: frame_11675.jpg
+  Маска 0: person, Уверенность: 0.28, Координаты: (192, 515), (266, 590), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11675_mask_0_person.png
+
+Кадр: frame_11700.jpg
+  Маска 0: traffic light, Уверенность: 0.30, Координаты: (373, 163), (407, 200), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11700_mask_0_traffic light.png
+
+Кадр: frame_11725.jpg
+  Маска 0: bus, Уверенность: 0.36, Координаты: (235, 296), (480, 554), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11725_mask_0_bus.png
+  Маска 1: truck, Уверенность: 0.35, Координаты: (313, 520), (466, 669), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11725_mask_1_truck.png
+  Маска 2: truck, Уверенность: 0.28, Координаты: (223, 196), (420, 425), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11725_mask_2_truck.png
+
+Кадр: frame_11750.jpg
+  Маска 0: car, Уверенность: 0.35, Координаты: (327, 794), (399, 929), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11750_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.26, Координаты: (404, 538), (538, 683), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11750_mask_1_truck.png
+
+Кадр: frame_11775.jpg
+  Маска 0: car, Уверенность: 0.32, Координаты: (264, 758), (428, 969), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11775_mask_0_car.png
+  Маска 1: bicycle, Уверенность: 0.26, Координаты: (185, 804), (266, 942), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11775_mask_1_bicycle.png
+
+Кадр: frame_11800.jpg
+  Маска 0: car, Уверенность: 0.35, Координаты: (268, 780), (393, 930), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11800_mask_0_car.png
+  Маска 1: car, Уверенность: 0.28, Координаты: (439, 314), (494, 366), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11800_mask_1_car.png
+
+Кадр: frame_11825.jpg
+  Маска 0: motorcycle, Уверенность: 0.27, Координаты: (640, 617), (683, 659), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11825_mask_0_motorcycle.png
+
+Кадр: frame_11875.jpg
+  Маска 0: person, Уверенность: 0.31, Координаты: (76, 340), (113, 392), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11875_mask_0_person.png
+  Маска 1: truck, Уверенность: 0.28, Координаты: (123, 594), (252, 736), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11875_mask_1_truck.png
+  Маска 2: motorcycle, Уверенность: 0.25, Координаты: (482, 640), (522, 681), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11875_mask_2_motorcycle.png
+
+Кадр: frame_11900.jpg
+  Маска 0: person, Уверенность: 0.54, Координаты: (199, 377), (280, 471), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11900_mask_0_person.png
+  Маска 1: car, Уверенность: 0.25, Координаты: (0, 890), (55, 970), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11900_mask_1_car.png
+
+Кадр: frame_11925.jpg
+  Маска 0: person, Уверенность: 0.36, Координаты: (187, 596), (266, 734), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11925_mask_0_person.png
+  Маска 1: umbrella, Уверенность: 0.31, Координаты: (0, 307), (22, 363), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11925_mask_1_umbrella.png
+
+Кадр: frame_11975.jpg
+  Маска 0: umbrella, Уверенность: 0.31, Координаты: (0, 340), (31, 400), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_11975_mask_0_umbrella.png
+
+Кадр: frame_12025.jpg
+  Маска 0: person, Уверенность: 0.58, Координаты: (37, 449), (111, 535), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_12025_mask_0_person.png
+
+Кадр: frame_12050.jpg
+  Маска 0: person, Уверенность: 0.41, Координаты: (76, 653), (154, 786), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_12050_mask_0_person.png
+  Маска 1: person, Уверенность: 0.29, Координаты: (56, 462), (131, 548), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_12050_mask_1_person.png
+
+Кадр: frame_13825.jpg
+  Маска 0: surfboard, Уверенность: 0.52, Координаты: (1648, 0), (1918, 206), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_13825_mask_0_surfboard.png
+
+Кадр: frame_14000.jpg
+  Маска 0: person, Уверенность: 0.29, Координаты: (1833, 21), (1919, 130), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_14000_mask_0_person.png
+
+Кадр: frame_14100.jpg
+  Маска 0: surfboard, Уверенность: 0.50, Координаты: (1641, 0), (1919, 324), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_14100_mask_0_surfboard.png
+
+Кадр: frame_14150.jpg
+  Маска 0: person, Уверенность: 0.66, Координаты: (1732, 321), (1919, 704), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_14150_mask_0_person.png
+
+Кадр: frame_14200.jpg
+  Маска 0: person, Уверенность: 0.49, Координаты: (1807, 406), (1919, 539), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_14200_mask_0_person.png
+
+Кадр: frame_14275.jpg
+  Маска 0: person, Уверенность: 0.35, Координаты: (1813, 533), (1919, 655), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_14275_mask_0_person.png
+
+Кадр: frame_15225.jpg
+  Маска 0: person, Уверенность: 0.27, Координаты: (1735, 571), (1773, 632), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_15225_mask_0_person.png
+
+Кадр: frame_15250.jpg
+  Маска 0: person, Уверенность: 0.44, Координаты: (1744, 552), (1777, 601), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_15250_mask_0_person.png
+
+Кадр: frame_15575.jpg
+  Маска 0: surfboard, Уверенность: 0.29, Координаты: (1041, 0), (1920, 421), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_15575_mask_0_surfboard.png
+
+Кадр: frame_15625.jpg
+  Маска 0: surfboard, Уверенность: 0.31, Координаты: (828, 0), (1917, 424), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_15625_mask_0_surfboard.png
+
+Кадр: frame_17150.jpg
+  Маска 0: airplane, Уверенность: 0.79, Координаты: (231, 923), (336, 1035), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_17150_mask_0_airplane.png
+
+Кадр: frame_17200.jpg
+  Маска 0: airplane, Уверенность: 0.39, Координаты: (135, 806), (237, 916), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_17200_mask_0_airplane.png
+
+Кадр: frame_17300.jpg
+  Маска 0: airplane, Уверенность: 0.73, Координаты: (44, 595), (144, 702), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_17300_mask_0_airplane.png
+
+Кадр: frame_17325.jpg
+  Маска 0: airplane, Уверенность: 0.75, Координаты: (0, 541), (96, 651), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_17325_mask_0_airplane.png
+
+Кадр: frame_17350.jpg
+  Маска 0: airplane, Уверенность: 0.46, Координаты: (0, 488), (45, 582), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_17350_mask_0_airplane.png
+
+Кадр: frame_17525.jpg
+  Маска 0: person, Уверенность: 0.46, Координаты: (166, 798), (205, 842), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_17525_mask_0_person.png
+  Маска 1: person, Уверенность: 0.37, Координаты: (66, 496), (156, 596), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_17525_mask_1_person.png
+
+Кадр: frame_17575.jpg
+  Маска 0: person, Уверенность: 0.44, Координаты: (138, 405), (226, 499), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_17575_mask_0_person.png
+  Маска 1: person, Уверенность: 0.32, Координаты: (166, 615), (233, 688), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_17575_mask_1_person.png
+
+Кадр: frame_17675.jpg
+  Маска 0: person, Уверенность: 0.31, Координаты: (99, 482), (133, 519), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_17675_mask_0_person.png
+
+Кадр: frame_18700.jpg
+  Маска 0: car, Уверенность: 0.37, Координаты: (0, 0), (177, 237), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18700_mask_0_car.png
+
+Кадр: frame_18725.jpg
+  Маска 0: car, Уверенность: 0.27, Координаты: (97, 43), (149, 100), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18725_mask_0_car.png
+
+Кадр: frame_18775.jpg
+  Маска 0: car, Уверенность: 0.29, Координаты: (0, 843), (32, 947), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18775_mask_0_car.png
+
+Кадр: frame_18800.jpg
+  Маска 0: car, Уверенность: 0.34, Координаты: (198, 226), (251, 275), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18800_mask_0_car.png
+  Маска 1: person, Уверенность: 0.34, Координаты: (71, 143), (122, 215), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18800_mask_1_person.png
+
+Кадр: frame_18825.jpg
+  Маска 0: car, Уверенность: 0.41, Координаты: (149, 274), (201, 321), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18825_mask_0_car.png
+
+Кадр: frame_18850.jpg
+  Маска 0: bus, Уверенность: 0.51, Координаты: (19, 341), (349, 616), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18850_mask_0_bus.png
+  Маска 1: car, Уверенность: 0.25, Координаты: (0, 865), (40, 968), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18850_mask_1_car.png
+
+Кадр: frame_18875.jpg
+  Маска 0: bus, Уверенность: 0.42, Координаты: (20, 394), (351, 680), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18875_mask_0_bus.png
+  Маска 1: person, Уверенность: 0.35, Координаты: (91, 306), (146, 377), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18875_mask_1_person.png
+  Маска 2: person, Уверенность: 0.29, Координаты: (98, 194), (143, 241), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18875_mask_2_person.png
+
+Кадр: frame_18900.jpg
+  Маска 0: car, Уверенность: 0.37, Координаты: (290, 461), (340, 507), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18900_mask_0_car.png
+  Маска 1: bus, Уверенность: 0.36, Координаты: (89, 465), (408, 743), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18900_mask_1_bus.png
+  Маска 2: person, Уверенность: 0.30, Координаты: (150, 366), (206, 439), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18900_mask_2_person.png
+  Маска 3: car, Уверенность: 0.26, Координаты: (36, 994), (112, 1082), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18900_mask_3_car.png
+
+Кадр: frame_18925.jpg
+  Маска 0: car, Уверенность: 0.45, Координаты: (182, 789), (405, 1019), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18925_mask_0_car.png
+  Маска 1: bus, Уверенность: 0.35, Координаты: (121, 512), (449, 809), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18925_mask_1_bus.png
+  Маска 2: car, Уверенность: 0.35, Координаты: (191, 320), (236, 360), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18925_mask_2_car.png
+
+Кадр: frame_18950.jpg
+  Маска 0: car, Уверенность: 0.57, Координаты: (173, 857), (391, 1079), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18950_mask_0_car.png
+
+Кадр: frame_18975.jpg
+  Маска 0: car, Уверенность: 0.62, Координаты: (229, 917), (446, 1080), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_18975_mask_0_car.png
+
+Кадр: frame_19000.jpg
+  Маска 0: car, Уверенность: 0.46, Координаты: (289, 986), (469, 1080), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19000_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.38, Координаты: (196, 581), (473, 831), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19000_mask_1_truck.png
+  Маска 2: truck, Уверенность: 0.28, Координаты: (193, 710), (529, 1004), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19000_mask_2_truck.png
+
+Кадр: frame_19025.jpg
+  Маска 0: truck, Уверенность: 0.35, Координаты: (231, 640), (503, 896), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19025_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.33, Координаты: (221, 847), (400, 1007), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19025_mask_1_car.png
+  Маска 2: car, Уверенность: 0.28, Координаты: (371, 812), (448, 870), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19025_mask_2_car.png
+
+Кадр: frame_19050.jpg
+  Маска 0: truck, Уверенность: 0.50, Координаты: (269, 702), (539, 957), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19050_mask_0_truck.png
+  Маска 1: tv, Уверенность: 0.41, Координаты: (0, 333), (105, 443), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19050_mask_1_tv.png
+
+Кадр: frame_19075.jpg
+  Маска 0: car, Уверенность: 0.46, Координаты: (384, 903), (683, 1080), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19075_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.46, Координаты: (296, 763), (573, 1023), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19075_mask_1_truck.png
+
+Кадр: frame_19100.jpg
+  Маска 0: tv, Уверенность: 0.40, Координаты: (9, 452), (119, 556), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19100_mask_0_tv.png
+
+Кадр: frame_19125.jpg
+  Маска 0: tv, Уверенность: 0.28, Координаты: (56, 514), (168, 620), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19125_mask_0_tv.png
+
+Кадр: frame_19150.jpg
+  Маска 0: tv, Уверенность: 0.35, Координаты: (55, 573), (172, 703), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19150_mask_0_tv.png
+
+Кадр: frame_19175.jpg
+  Маска 0: laptop, Уверенность: 0.28, Координаты: (96, 639), (234, 810), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19175_mask_0_laptop.png
+
+Кадр: frame_19225.jpg
+  Маска 0: tv, Уверенность: 0.47, Координаты: (185, 767), (300, 885), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19225_mask_0_tv.png
+
+Кадр: frame_19475.jpg
+  Маска 0: person, Уверенность: 0.32, Координаты: (135, 849), (193, 898), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19475_mask_0_person.png
+
+Кадр: frame_19750.jpg
+  Маска 0: kite, Уверенность: 0.26, Координаты: (74, 61), (102, 87), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_19750_mask_0_kite.png
+
+Кадр: frame_20700.jpg
+  Маска 0: surfboard, Уверенность: 0.34, Координаты: (1495, 0), (1918, 170), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_20700_mask_0_surfboard.png
+
+Кадр: frame_20775.jpg
+  Маска 0: kite, Уверенность: 0.32, Координаты: (1593, 0), (1918, 257), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_20775_mask_0_kite.png
+
+Кадр: frame_22075.jpg
+  Маска 0: surfboard, Уверенность: 0.54, Координаты: (1, 787), (241, 1069), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22075_mask_0_surfboard.png
+
+Кадр: frame_22100.jpg
+  Маска 0: surfboard, Уверенность: 0.64, Координаты: (1, 735), (247, 1070), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22100_mask_0_surfboard.png
+
+Кадр: frame_22150.jpg
+  Маска 0: surfboard, Уверенность: 0.29, Координаты: (1, 661), (225, 1066), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22150_mask_0_surfboard.png
+
+Кадр: frame_22175.jpg
+  Маска 0: surfboard, Уверенность: 0.29, Координаты: (1, 659), (187, 1069), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22175_mask_0_surfboard.png
+
+Кадр: frame_22200.jpg
+  Маска 0: surfboard, Уверенность: 0.37, Координаты: (0, 699), (109, 1070), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22200_mask_0_surfboard.png
+
+Кадр: frame_22225.jpg
+  Маска 0: surfboard, Уверенность: 0.25, Координаты: (0, 726), (70, 1070), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22225_mask_0_surfboard.png
+
+Кадр: frame_22250.jpg
+  Маска 0: surfboard, Уверенность: 0.50, Координаты: (0, 632), (95, 1069), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22250_mask_0_surfboard.png
+
+Кадр: frame_22275.jpg
+  Маска 0: surfboard, Уверенность: 0.26, Координаты: (0, 684), (65, 1069), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22275_mask_0_surfboard.png
+
+Кадр: frame_22425.jpg
+  Маска 0: truck, Уверенность: 0.28, Координаты: (923, 644), (1031, 742), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22425_mask_0_truck.png
+
+Кадр: frame_22525.jpg
+  Маска 0: person, Уверенность: 0.47, Координаты: (1186, 883), (1234, 934), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22525_mask_0_person.png
+
+Кадр: frame_22550.jpg
+  Маска 0: person, Уверенность: 0.51, Координаты: (1170, 823), (1221, 875), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22550_mask_0_person.png
+  Маска 1: bench, Уверенность: 0.25, Координаты: (1056, 716), (1180, 831), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22550_mask_1_bench.png
+
+Кадр: frame_22575.jpg
+  Маска 0: person, Уверенность: 0.55, Координаты: (1170, 762), (1222, 814), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22575_mask_0_person.png
+  Маска 1: bench, Уверенность: 0.53, Координаты: (1084, 654), (1161, 735), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22575_mask_1_bench.png
+  Маска 2: bench, Уверенность: 0.53, Координаты: (1060, 693), (1171, 787), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22575_mask_2_bench.png
+
+Кадр: frame_22625.jpg
+  Маска 0: truck, Уверенность: 0.34, Координаты: (595, 212), (693, 301), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22625_mask_0_truck.png
+  Маска 1: person, Уверенность: 0.27, Координаты: (1065, 649), (1113, 699), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22625_mask_1_person.png
+  Маска 2: person, Уверенность: 0.26, Координаты: (1193, 755), (1219, 799), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22625_mask_2_person.png
+
+Кадр: frame_22650.jpg
+  Маска 0: truck, Уверенность: 0.51, Координаты: (637, 168), (733, 253), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22650_mask_0_truck.png
+  Маска 1: person, Уверенность: 0.43, Координаты: (1098, 592), (1147, 643), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22650_mask_1_person.png
+  Маска 2: bench, Уверенность: 0.26, Координаты: (1014, 490), (1090, 560), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22650_mask_2_bench.png
+
+Кадр: frame_22675.jpg
+  Маска 0: truck, Уверенность: 0.61, Координаты: (589, 119), (680, 203), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22675_mask_0_truck.png
+  Маска 1: person, Уверенность: 0.42, Координаты: (1039, 535), (1088, 586), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22675_mask_1_person.png
+
+Кадр: frame_22700.jpg
+  Маска 0: person, Уверенность: 0.46, Координаты: (941, 475), (991, 525), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22700_mask_0_person.png
+
+Кадр: frame_22750.jpg
+  Маска 0: airplane, Уверенность: 0.29, Координаты: (847, 272), (950, 374), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22750_mask_0_airplane.png
+
+Кадр: frame_22775.jpg
+  Маска 0: airplane, Уверенность: 0.31, Координаты: (1724, 882), (1837, 1009), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22775_mask_0_airplane.png
+
+Кадр: frame_22825.jpg
+  Маска 0: laptop, Уверенность: 0.28, Координаты: (1188, 681), (1314, 820), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22825_mask_0_laptop.png
+
+Кадр: frame_22850.jpg
+  Маска 0: person, Уверенность: 0.39, Координаты: (705, 158), (755, 211), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22850_mask_0_person.png
+  Маска 1: person, Уверенность: 0.25, Координаты: (1510, 889), (1549, 935), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22850_mask_1_person.png
+
+Кадр: frame_22875.jpg
+  Маска 0: person, Уверенность: 0.40, Координаты: (1551, 943), (1621, 1026), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22875_mask_0_person.png
+
+Кадр: frame_22900.jpg
+  Маска 0: truck, Уверенность: 0.40, Координаты: (1424, 827), (1687, 1079), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22900_mask_0_truck.png
+  Маска 1: person, Уверенность: 0.35, Координаты: (1463, 882), (1529, 961), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22900_mask_1_person.png
+
+Кадр: frame_22925.jpg
+  Маска 0: traffic light, Уверенность: 0.29, Координаты: (1377, 709), (1416, 751), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22925_mask_0_traffic light.png
+  Маска 1: truck, Уверенность: 0.26, Координаты: (1329, 757), (1611, 1076), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22925_mask_1_truck.png
+
+Кадр: frame_22950.jpg
+  Маска 0: traffic light, Уверенность: 0.35, Координаты: (1363, 649), (1404, 691), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22950_mask_0_traffic light.png
+
+Кадр: frame_22975.jpg
+  Маска 0: car, Уверенность: 0.29, Координаты: (1828, 898), (1876, 948), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22975_mask_0_car.png
+  Маска 1: person, Уверенность: 0.26, Координаты: (1325, 700), (1391, 773), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22975_mask_1_person.png
+  Маска 2: tv, Уверенность: 0.26, Координаты: (932, 339), (1039, 443), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_22975_mask_2_tv.png
+
+Кадр: frame_23025.jpg
+  Маска 0: car, Уверенность: 0.72, Координаты: (1330, 941), (1539, 1081), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23025_mask_0_car.png
+  Маска 1: car, Уверенность: 0.26, Координаты: (1740, 782), (1789, 831), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23025_mask_1_car.png
+
+Кадр: frame_23050.jpg
+  Маска 0: car, Уверенность: 0.52, Координаты: (1238, 883), (1464, 1080), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23050_mask_0_car.png
+  Маска 1: person, Уверенность: 0.39, Координаты: (1166, 529), (1228, 604), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23050_mask_1_person.png
+  Маска 2: truck, Уверенность: 0.35, Координаты: (1141, 612), (1388, 858), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23050_mask_2_truck.png
+  Маска 3: traffic light, Уверенность: 0.34, Координаты: (1153, 423), (1191, 464), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23050_mask_3_traffic light.png
+  Маска 4: car, Уверенность: 0.28, Координаты: (1143, 612), (1388, 856), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23050_mask_4_car.png
+  Маска 5: truck, Уверенность: 0.28, Координаты: (1239, 882), (1465, 1080), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23050_mask_5_truck.png
+  Маска 6: tv, Уверенность: 0.27, Координаты: (787, 183), (893, 279), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23050_mask_6_tv.png
+
+Кадр: frame_23075.jpg
+  Маска 0: car, Уверенность: 0.43, Координаты: (1164, 820), (1390, 1053), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23075_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.35, Координаты: (1059, 423), (1303, 689), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23075_mask_1_truck.png
+  Маска 2: car, Уверенность: 0.29, Координаты: (1075, 553), (1310, 790), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23075_mask_2_car.png
+  Маска 3: truck, Уверенность: 0.27, Координаты: (1077, 553), (1310, 792), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23075_mask_3_truck.png
+
+Кадр: frame_23100.jpg
+  Маска 0: traffic light, Уверенность: 0.41, Координаты: (1172, 304), (1211, 345), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23100_mask_0_traffic light.png
+  Маска 1: tv, Уверенность: 0.27, Координаты: (816, 79), (917, 179), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23100_mask_1_tv.png
+
+Кадр: frame_23125.jpg
+  Маска 0: car, Уверенность: 0.58, Координаты: (1179, 997), (1255, 1080), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23125_mask_0_car.png
+  Маска 1: umbrella, Уверенность: 0.31, Координаты: (0, 840), (37, 881), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23125_mask_1_umbrella.png
+
+Кадр: frame_23150.jpg
+  Маска 0: car, Уверенность: 0.35, Координаты: (218, 924), (313, 1024), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23150_mask_0_car.png
+  Маска 1: car, Уверенность: 0.30, Координаты: (1011, 372), (1234, 630), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23150_mask_1_car.png
+  Маска 2: car, Уверенность: 0.30, Координаты: (1091, 912), (1252, 1077), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23150_mask_2_car.png
+  Маска 3: car, Уверенность: 0.28, Координаты: (605, 559), (697, 659), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23150_mask_3_car.png
+  Маска 4: motorcycle, Уверенность: 0.27, Координаты: (1568, 760), (1615, 805), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23150_mask_4_motorcycle.png
+  Маска 5: person, Уверенность: 0.26, Координаты: (820, 856), (848, 893), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23150_mask_5_person.png
+
+Кадр: frame_23175.jpg
+  Маска 0: person, Уверенность: 0.43, Координаты: (367, 725), (481, 865), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23175_mask_0_person.png
+  Маска 1: car, Уверенность: 0.39, Координаты: (1074, 583), (1292, 782), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23175_mask_1_car.png
+  Маска 2: person, Уверенность: 0.38, Координаты: (304, 754), (399, 851), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23175_mask_2_person.png
+  Маска 3: car, Уверенность: 0.34, Координаты: (990, 865), (1077, 1016), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23175_mask_3_car.png
+  Маска 4: motorcycle, Уверенность: 0.30, Координаты: (1556, 693), (1606, 747), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23175_mask_4_motorcycle.png
+  Маска 5: car, Уверенность: 0.30, Координаты: (594, 506), (685, 603), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23175_mask_5_car.png
+  Маска 6: traffic light, Уверенность: 0.29, Координаты: (993, 147), (1030, 186), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23175_mask_6_traffic light.png
+  Маска 7: car, Уверенность: 0.28, Координаты: (1093, 849), (1244, 1041), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23175_mask_7_car.png
+  Маска 8: truck, Уверенность: 0.28, Координаты: (1093, 848), (1244, 1049), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23175_mask_8_truck.png
+
+Кадр: frame_23200.jpg
+  Маска 0: motorcycle, Уверенность: 0.32, Координаты: (1454, 634), (1500, 686), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23200_mask_0_motorcycle.png
+  Маска 1: car, Уверенность: 0.29, Координаты: (986, 523), (1191, 706), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23200_mask_1_car.png
+  Маска 2: car, Уверенность: 0.25, Координаты: (889, 804), (977, 957), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23200_mask_2_car.png
+  Маска 3: car, Уверенность: 0.25, Координаты: (892, 151), (1126, 396), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23200_mask_3_car.png
+
+Кадр: frame_23225.jpg
+  Маска 0: car, Уверенность: 0.36, Координаты: (839, 741), (926, 893), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23225_mask_0_car.png
+  Маска 1: car, Уверенность: 0.34, Координаты: (935, 469), (1126, 637), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23225_mask_1_car.png
+  Маска 2: car, Уверенность: 0.32, Координаты: (853, 749), (927, 832), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23225_mask_2_car.png
+  Маска 3: car, Уверенность: 0.29, Координаты: (456, 392), (542, 489), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23225_mask_3_car.png
+  Маска 4: car, Уверенность: 0.29, Координаты: (840, 798), (923, 893), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23225_mask_4_car.png
+  Маска 5: car, Уверенность: 0.27, Координаты: (939, 726), (1087, 931), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23225_mask_5_car.png
+  Маска 6: truck, Уверенность: 0.26, Координаты: (939, 725), (1087, 930), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23225_mask_6_truck.png
+
+Кадр: frame_23250.jpg
+  Маска 0: motorcycle, Уверенность: 0.34, Координаты: (1401, 515), (1450, 567), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23250_mask_0_motorcycle.png
+  Маска 1: truck, Уверенность: 0.27, Координаты: (943, 662), (1141, 870), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23250_mask_1_truck.png
+  Маска 2: truck, Уверенность: 0.25, Координаты: (845, 49), (1076, 293), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23250_mask_2_truck.png
+
+Кадр: frame_23275.jpg
+  Маска 0: truck, Уверенность: 0.43, Координаты: (789, 0), (1147, 443), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23275_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.34, Координаты: (453, 286), (539, 381), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23275_mask_1_car.png
+  Маска 2: person, Уверенность: 0.32, Координаты: (231, 494), (336, 630), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23275_mask_2_person.png
+
+Кадр: frame_23300.jpg
+  Маска 0: truck, Уверенность: 0.40, Координаты: (804, 0), (1143, 386), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23300_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.30, Координаты: (924, 299), (1123, 461), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23300_mask_1_car.png
+  Маска 2: car, Уверенность: 0.27, Координаты: (830, 579), (915, 715), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23300_mask_2_car.png
+
+Кадр: frame_23325.jpg
+  Маска 0: car, Уверенность: 0.42, Координаты: (1754, 591), (1778, 615), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23325_mask_0_car.png
+  Маска 1: motorcycle, Уверенность: 0.35, Координаты: (1311, 345), (1355, 391), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23325_mask_1_motorcycle.png
+
+Кадр: frame_23350.jpg
+  Маска 0: umbrella, Уверенность: 0.44, Координаты: (465, 148), (546, 233), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23350_mask_0_umbrella.png
+  Маска 1: person, Уверенность: 0.34, Координаты: (1824, 526), (1846, 556), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23350_mask_1_person.png
+  Маска 2: chair, Уверенность: 0.32, Координаты: (815, 478), (896, 603), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23350_mask_2_chair.png
+  Маска 3: chair, Уверенность: 0.32, Координаты: (1288, 40), (1330, 82), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23350_mask_3_chair.png
+  Маска 4: chair, Уверенность: 0.30, Координаты: (915, 605), (996, 702), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23350_mask_4_chair.png
+
+Кадр: frame_23375.jpg
+  Маска 0: car, Уверенность: 0.33, Координаты: (807, 822), (867, 864), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23375_mask_0_car.png
+  Маска 1: person, Уверенность: 0.32, Координаты: (1603, 477), (1625, 505), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23375_mask_1_person.png
+
+Кадр: frame_23400.jpg
+  Маска 0: umbrella, Уверенность: 0.26, Координаты: (239, 29), (324, 114), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23400_mask_0_umbrella.png
+
+Кадр: frame_23425.jpg
+  Маска 0: car, Уверенность: 0.51, Координаты: (662, 697), (718, 737), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23425_mask_0_car.png
+  Маска 1: car, Уверенность: 0.36, Координаты: (692, 607), (738, 643), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23425_mask_1_car.png
+  Маска 2: car, Уверенность: 0.30, Координаты: (487, 283), (574, 421), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23425_mask_2_car.png
+
+Кадр: frame_23450.jpg
+  Маска 0: car, Уверенность: 0.29, Координаты: (740, 641), (799, 684), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23450_mask_0_car.png
+  Маска 1: car, Уверенность: 0.27, Координаты: (769, 555), (815, 590), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23450_mask_1_car.png
+
+Кадр: frame_23575.jpg
+  Маска 0: kite, Уверенность: 0.25, Координаты: (585, 281), (624, 308), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23575_mask_0_kite.png
+
+Кадр: frame_23625.jpg
+  Маска 0: surfboard, Уверенность: 0.35, Координаты: (0, 0), (94, 116), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23625_mask_0_surfboard.png
+
+Кадр: frame_23700.jpg
+  Маска 0: kite, Уверенность: 0.27, Координаты: (1882, 1002), (1904, 1021), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_23700_mask_0_kite.png
+
+Кадр: frame_24225.jpg
+  Маска 0: person, Уверенность: 0.50, Координаты: (19, 236), (60, 301), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24225_mask_0_person.png
+
+Кадр: frame_24250.jpg
+  Маска 0: person, Уверенность: 0.41, Координаты: (0, 216), (26, 284), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24250_mask_0_person.png
+
+Кадр: frame_24625.jpg
+  Маска 0: kite, Уверенность: 0.32, Координаты: (919, 8), (972, 48), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24625_mask_0_kite.png
+
+Кадр: frame_24650.jpg
+  Маска 0: person, Уверенность: 0.46, Координаты: (935, 62), (989, 105), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24650_mask_0_person.png
+
+Кадр: frame_24725.jpg
+  Маска 0: bear, Уверенность: 0.38, Координаты: (909, 476), (1007, 578), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24725_mask_0_bear.png
+
+Кадр: frame_24750.jpg
+  Маска 0: bear, Уверенность: 0.51, Координаты: (854, 547), (946, 647), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24750_mask_0_bear.png
+
+Кадр: frame_24775.jpg
+  Маска 0: person, Уверенность: 0.55, Координаты: (215, 174), (251, 228), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24775_mask_0_person.png
+
+Кадр: frame_24825.jpg
+  Маска 0: person, Уверенность: 0.42, Координаты: (1064, 199), (1138, 292), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24825_mask_0_person.png
+
+Кадр: frame_24850.jpg
+  Маска 0: person, Уверенность: 0.27, Координаты: (1502, 41), (1541, 79), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24850_mask_0_person.png
+  Маска 1: car, Уверенность: 0.27, Координаты: (1150, 520), (1206, 562), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24850_mask_1_car.png
+
+Кадр: frame_24875.jpg
+  Маска 0: car, Уверенность: 0.33, Координаты: (1058, 182), (1123, 247), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24875_mask_0_car.png
+  Маска 1: person, Уверенность: 0.28, Координаты: (1129, 312), (1207, 410), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24875_mask_1_person.png
+
+Кадр: frame_24900.jpg
+  Маска 0: person, Уверенность: 0.45, Координаты: (1146, 373), (1223, 471), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24900_mask_0_person.png
+  Маска 1: car, Уверенность: 0.33, Координаты: (1211, 637), (1260, 682), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24900_mask_1_car.png
+  Маска 2: person, Уверенность: 0.32, Координаты: (1211, 637), (1260, 682), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24900_mask_2_person.png
+
+Кадр: frame_24925.jpg
+  Маска 0: car, Уверенность: 0.36, Координаты: (1215, 696), (1263, 739), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24925_mask_0_car.png
+
+Кадр: frame_24950.jpg
+  Маска 0: person, Уверенность: 0.27, Координаты: (1553, 0), (1652, 54), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24950_mask_0_person.png
+
+Кадр: frame_24975.jpg
+  Маска 0: car, Уверенность: 0.63, Координаты: (828, 34), (919, 129), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24975_mask_0_car.png
+  Маска 1: person, Уверенность: 0.28, Координаты: (1340, 802), (1391, 860), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24975_mask_1_person.png
+  Маска 2: person, Уверенность: 0.25, Координаты: (1593, 19), (1674, 95), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_24975_mask_2_person.png
+
+Кадр: frame_25000.jpg
+  Маска 0: bus, Уверенность: 0.49, Координаты: (1212, 0), (1506, 239), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25000_mask_0_bus.png
+  Маска 1: person, Уверенность: 0.29, Координаты: (1376, 878), (1426, 922), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25000_mask_1_person.png
+  Маска 2: car, Уверенность: 0.29, Координаты: (862, 90), (953, 181), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25000_mask_2_car.png
+  Маска 3: car, Уверенность: 0.28, Координаты: (1230, 463), (1294, 539), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25000_mask_3_car.png
+  Маска 4: car, Уверенность: 0.27, Координаты: (1215, 509), (1294, 589), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25000_mask_4_car.png
+
+Кадр: frame_25025.jpg
+  Маска 0: car, Уверенность: 0.60, Координаты: (858, 142), (951, 238), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25025_mask_0_car.png
+  Маска 1: car, Уверенность: 0.41, Координаты: (1370, 938), (1422, 983), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25025_mask_1_car.png
+  Маска 2: motorcycle, Уверенность: 0.28, Координаты: (1716, 414), (1755, 459), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25025_mask_2_motorcycle.png
+  Маска 3: car, Уверенность: 0.26, Координаты: (1211, 523), (1297, 652), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25025_mask_3_car.png
+  Маска 4: truck, Уверенность: 0.25, Координаты: (1210, 0), (1529, 334), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25025_mask_4_truck.png
+
+Кадр: frame_25050.jpg
+  Маска 0: umbrella, Уверенность: 0.42, Координаты: (0, 328), (34, 374), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25050_mask_0_umbrella.png
+  Маска 1: car, Уверенность: 0.34, Координаты: (871, 193), (967, 287), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25050_mask_1_car.png
+  Маска 2: motorcycle, Уверенность: 0.32, Координаты: (1730, 465), (1769, 510), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25050_mask_2_motorcycle.png
+
+Кадр: frame_25075.jpg
+  Маска 0: car, Уверенность: 0.56, Координаты: (896, 251), (991, 348), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25075_mask_0_car.png
+  Маска 1: person, Уверенность: 0.46, Координаты: (1191, 255), (1241, 329), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25075_mask_1_person.png
+  Маска 2: person, Уверенность: 0.34, Координаты: (1701, 287), (1742, 325), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25075_mask_2_person.png
+
+Кадр: frame_25100.jpg
+  Маска 0: car, Уверенность: 0.39, Координаты: (1346, 698), (1417, 775), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25100_mask_0_car.png
+  Маска 1: car, Уверенность: 0.30, Координаты: (967, 308), (1066, 405), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25100_mask_1_car.png
+
+Кадр: frame_25125.jpg
+  Маска 0: truck, Уверенность: 0.28, Координаты: (1378, 719), (1607, 932), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25125_mask_0_truck.png
+
+Кадр: frame_25150.jpg
+  Маска 0: tv, Уверенность: 0.38, Координаты: (54, 494), (155, 591), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25150_mask_0_tv.png
+
+Кадр: frame_25175.jpg
+  Маска 0: truck, Уверенность: 0.38, Координаты: (1453, 285), (1648, 474), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25175_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.34, Координаты: (1465, 872), (1536, 962), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25175_mask_1_car.png
+  Маска 2: car, Уверенность: 0.33, Координаты: (1462, 358), (1702, 581), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25175_mask_2_car.png
+
+Кадр: frame_25200.jpg
+  Маска 0: laptop, Уверенность: 0.42, Координаты: (51, 617), (154, 717), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25200_mask_0_laptop.png
+  Маска 1: car, Уверенность: 0.36, Координаты: (1848, 507), (1919, 588), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25200_mask_1_car.png
+  Маска 2: car, Уверенность: 0.30, Координаты: (1083, 538), (1184, 639), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25200_mask_2_car.png
+  Маска 3: car, Уверенность: 0.27, Координаты: (1468, 923), (1539, 1011), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25200_mask_3_car.png
+
+Кадр: frame_25225.jpg
+  Маска 0: car, Уверенность: 0.31, Координаты: (1538, 994), (1614, 1081), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25225_mask_0_car.png
+  Маска 1: kite, Уверенность: 0.26, Координаты: (0, 497), (78, 574), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25225_mask_1_kite.png
+  Маска 2: car, Уверенность: 0.25, Координаты: (1544, 474), (1789, 699), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25225_mask_2_car.png
+
+Кадр: frame_25250.jpg
+  Маска 0: truck, Уверенность: 0.48, Координаты: (1496, 463), (1685, 647), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25250_mask_0_truck.png
+  Маска 1: truck, Уверенность: 0.27, Координаты: (883, 857), (1007, 1023), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25250_mask_1_truck.png
+
+Кадр: frame_25275.jpg
+  Маска 0: person, Уверенность: 0.51, Координаты: (951, 929), (1076, 1077), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25275_mask_0_person.png
+
+Кадр: frame_25300.jpg
+  Маска 0: car, Уверенность: 0.45, Координаты: (1607, 892), (1812, 1082), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25300_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.43, Координаты: (1519, 530), (1737, 762), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25300_mask_1_truck.png
+  Маска 2: truck, Уверенность: 0.34, Координаты: (1535, 650), (1807, 925), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25300_mask_2_truck.png
+  Маска 3: tv, Уверенность: 0.34, Координаты: (1227, 193), (1325, 289), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25300_mask_3_tv.png
+
+Кадр: frame_25325.jpg
+  Маска 0: truck, Уверенность: 0.44, Координаты: (1638, 515), (1919, 1073), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25325_mask_0_truck.png
+  Маска 1: cup, Уверенность: 0.40, Координаты: (1292, 840), (1393, 945), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25325_mask_1_cup.png
+  Маска 2: laptop, Уверенность: 0.38, Координаты: (43, 900), (172, 1033), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25325_mask_2_laptop.png
+  Маска 3: laptop, Уверенность: 0.26, Координаты: (84, 749), (198, 826), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25325_mask_3_laptop.png
+
+Кадр: frame_25350.jpg
+  Маска 0: tv, Уверенность: 0.26, Координаты: (1376, 306), (1478, 406), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25350_mask_0_tv.png
+
+Кадр: frame_25375.jpg
+  Маска 0: bench, Уверенность: 0.36, Координаты: (1662, 642), (1915, 1077), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25375_mask_0_bench.png
+  Маска 1: tv, Уверенность: 0.26, Координаты: (1387, 363), (1492, 463), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25375_mask_1_tv.png
+
+Кадр: frame_25425.jpg
+  Маска 0: boat, Уверенность: 0.42, Координаты: (1705, 748), (1918, 1075), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25425_mask_0_boat.png
+  Маска 1: person, Уверенность: 0.41, Координаты: (1067, 0), (1115, 37), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25425_mask_1_person.png
+  Маска 2: chair, Уверенность: 0.26, Координаты: (1810, 593), (1905, 698), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25425_mask_2_chair.png
+
+Кадр: frame_25450.jpg
+  Маска 0: person, Уверенность: 0.40, Координаты: (999, 0), (1104, 50), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25450_mask_0_person.png
+
+Кадр: frame_25475.jpg
+  Маска 0: laptop, Уверенность: 0.26, Координаты: (1478, 591), (1608, 759), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25475_mask_0_laptop.png
+
+Кадр: frame_25550.jpg
+  Маска 0: laptop, Уверенность: 0.27, Координаты: (1641, 771), (1780, 958), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25550_mask_0_laptop.png
+
+Кадр: frame_25625.jpg
+  Маска 0: laptop, Уверенность: 0.57, Координаты: (1795, 950), (1919, 1082), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25625_mask_0_laptop.png
+
+Кадр: frame_25700.jpg
+  Маска 0: person, Уверенность: 0.27, Координаты: (1375, 511), (1442, 581), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25700_mask_0_person.png
+  Маска 1: person, Уверенность: 0.25, Координаты: (1664, 881), (1701, 914), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25700_mask_1_person.png
+
+Кадр: frame_25775.jpg
+  Маска 0: person, Уверенность: 0.34, Координаты: (1544, 684), (1608, 758), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25775_mask_0_person.png
+
+Кадр: frame_25800.jpg
+  Маска 0: truck, Уверенность: 0.32, Координаты: (1694, 910), (1800, 997), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25800_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.28, Координаты: (1695, 910), (1801, 998), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25800_mask_1_car.png
+
+Кадр: frame_25875.jpg
+  Маска 0: person, Уверенность: 0.41, Координаты: (1571, 913), (1638, 993), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25875_mask_0_person.png
+
+Кадр: frame_25900.jpg
+  Маска 0: person, Уверенность: 0.28, Координаты: (1686, 978), (1751, 1056), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25900_mask_0_person.png
+
+Кадр: frame_25975.jpg
+  Маска 0: bird, Уверенность: 0.31, Координаты: (1087, 108), (1112, 128), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_25975_mask_0_bird.png
+
+Кадр: frame_26175.jpg
+  Маска 0: bird, Уверенность: 0.29, Координаты: (1308, 551), (1336, 576), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_26175_mask_0_bird.png
+
+Кадр: frame_26575.jpg
+  Маска 0: person, Уверенность: 0.33, Координаты: (1041, 368), (1711, 947), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_26575_mask_0_person.png
+
+Кадр: frame_27275.jpg
+  Маска 0: surfboard, Уверенность: 0.41, Координаты: (0, 905), (1102, 1053), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_27275_mask_0_surfboard.png
+
+Кадр: frame_27325.jpg
+  Маска 0: surfboard, Уверенность: 0.27, Координаты: (0, 888), (1831, 1051), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_27325_mask_0_surfboard.png
+
+Кадр: frame_28850.jpg
+  Маска 0: laptop, Уверенность: 0.45, Координаты: (1075, 718), (1190, 797), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_28850_mask_0_laptop.png
+
+Кадр: frame_28950.jpg
+  Маска 0: chair, Уверенность: 0.28, Координаты: (781, 643), (901, 774), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_28950_mask_0_chair.png
+  Маска 1: car, Уверенность: 0.27, Координаты: (1218, 776), (1281, 832), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_28950_mask_1_car.png
+
+Кадр: frame_28975.jpg
+  Маска 0: chair, Уверенность: 0.49, Координаты: (876, 587), (997, 715), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_28975_mask_0_chair.png
+  Маска 1: tv, Уверенность: 0.34, Координаты: (1087, 590), (1182, 688), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_28975_mask_1_tv.png
+  Маска 2: laptop, Уверенность: 0.26, Координаты: (888, 434), (993, 511), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_28975_mask_2_laptop.png
+
+Кадр: frame_29000.jpg
+  Маска 0: chair, Уверенность: 0.40, Координаты: (796, 530), (914, 664), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29000_mask_0_chair.png
+  Маска 1: person, Уверенность: 0.34, Координаты: (1326, 639), (1353, 695), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29000_mask_1_person.png
+
+Кадр: frame_29025.jpg
+  Маска 0: car, Уверенность: 0.38, Координаты: (1162, 824), (1248, 913), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29025_mask_0_car.png
+  Маска 1: laptop, Уверенность: 0.38, Координаты: (660, 474), (785, 604), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29025_mask_1_laptop.png
+  Маска 2: laptop, Уверенность: 0.35, Координаты: (868, 479), (963, 572), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29025_mask_2_laptop.png
+  Маска 3: tv, Уверенность: 0.32, Координаты: (868, 480), (963, 572), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29025_mask_3_tv.png
+  Маска 4: tv, Уверенность: 0.31, Координаты: (980, 540), (1056, 600), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29025_mask_4_tv.png
+  Маска 5: car, Уверенность: 0.30, Координаты: (1688, 867), (1750, 920), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29025_mask_5_car.png
+
+Кадр: frame_29050.jpg
+  Маска 0: tv, Уверенность: 0.49, Координаты: (865, 427), (959, 519), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29050_mask_0_tv.png
+  Маска 1: tv, Уверенность: 0.37, Координаты: (1863, 241), (1919, 322), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29050_mask_1_tv.png
+  Маска 2: chair, Уверенность: 0.32, Координаты: (661, 426), (778, 548), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29050_mask_2_chair.png
+  Маска 3: tv, Уверенность: 0.28, Координаты: (964, 894), (1019, 951), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29050_mask_3_tv.png
+
+Кадр: frame_29075.jpg
+  Маска 0: tv, Уверенность: 0.57, Координаты: (862, 374), (955, 464), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29075_mask_0_tv.png
+  Маска 1: chair, Уверенность: 0.33, Координаты: (660, 372), (777, 497), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29075_mask_1_chair.png
+
+Кадр: frame_29100.jpg
+  Маска 0: tv, Уверенность: 0.64, Координаты: (822, 322), (914, 410), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29100_mask_0_tv.png
+  Маска 1: tv, Уверенность: 0.33, Координаты: (929, 378), (1002, 434), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29100_mask_1_tv.png
+  Маска 2: tv, Уверенность: 0.33, Координаты: (914, 779), (968, 833), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29100_mask_2_tv.png
+
+Кадр: frame_29125.jpg
+  Маска 0: tv, Уверенность: 0.38, Координаты: (779, 268), (869, 359), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29125_mask_0_tv.png
+  Маска 1: person, Уверенность: 0.32, Координаты: (1494, 755), (1511, 784), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29125_mask_1_person.png
+  Маска 2: chair, Уверенность: 0.31, Координаты: (669, 602), (717, 669), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29125_mask_2_chair.png
+  Маска 3: tv, Уверенность: 0.29, Координаты: (1758, 76), (1851, 162), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29125_mask_3_tv.png
+
+Кадр: frame_29150.jpg
+  Маска 0: tv, Уверенность: 0.37, Координаты: (736, 218), (826, 304), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29150_mask_0_tv.png
+  Маска 1: car, Уверенность: 0.34, Координаты: (1012, 535), (1096, 617), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29150_mask_1_car.png
+  Маска 2: tv, Уверенность: 0.27, Координаты: (822, 661), (877, 714), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29150_mask_2_tv.png
+  Маска 3: car, Уверенность: 0.25, Координаты: (1871, 189), (1919, 259), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29150_mask_3_car.png
+
+Кадр: frame_29175.jpg
+  Маска 0: truck, Уверенность: 0.52, Координаты: (533, 36), (632, 106), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29175_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.49, Координаты: (1830, 151), (1895, 215), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29175_mask_1_car.png
+
+Кадр: frame_29200.jpg
+  Маска 0: car, Уверенность: 0.49, Координаты: (781, 176), (849, 228), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29200_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.48, Координаты: (510, 0), (608, 64), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29200_mask_1_truck.png
+  Маска 2: car, Уверенность: 0.47, Координаты: (510, 0), (608, 65), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29200_mask_2_car.png
+  Маска 3: car, Уверенность: 0.34, Координаты: (946, 429), (1026, 509), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29200_mask_3_car.png
+
+Кадр: frame_29225.jpg
+  Маска 0: car, Уверенность: 0.47, Координаты: (858, 374), (937, 451), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29225_mask_0_car.png
+  Маска 1: umbrella, Уверенность: 0.38, Координаты: (858, 374), (936, 451), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29225_mask_1_umbrella.png
+
+Кадр: frame_29275.jpg
+  Маска 0: boat, Уверенность: 0.29, Координаты: (544, 291), (592, 354), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29275_mask_0_boat.png
+
+Кадр: frame_29300.jpg
+  Маска 0: person, Уверенность: 0.47, Координаты: (1176, 365), (1193, 393), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29300_mask_0_person.png
+
+Кадр: frame_29325.jpg
+  Маска 0: person, Уверенность: 0.26, Координаты: (1154, 312), (1171, 336), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29325_mask_0_person.png
+  Маска 1: car, Уверенность: 0.25, Координаты: (747, 169), (826, 244), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29325_mask_1_car.png
+
+Кадр: frame_29350.jpg
+  Маска 0: car, Уверенность: 0.47, Координаты: (770, 126), (846, 196), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29350_mask_0_car.png
+  Маска 1: car, Уверенность: 0.36, Координаты: (1189, 0), (1250, 50), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29350_mask_1_car.png
+  Маска 2: traffic light, Уверенность: 0.26, Координаты: (678, 213), (749, 282), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29350_mask_2_traffic light.png
+
+Кадр: frame_29475.jpg
+  Маска 0: car, Уверенность: 0.25, Координаты: (1857, 37), (1909, 65), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29475_mask_0_car.png
+
+Кадр: frame_29900.jpg
+  Маска 0: surfboard, Уверенность: 0.25, Координаты: (1125, 5), (1917, 949), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29900_mask_0_surfboard.png
+
+Кадр: frame_29950.jpg
+  Маска 0: surfboard, Уверенность: 0.29, Координаты: (1051, 0), (1918, 941), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_29950_mask_0_surfboard.png
+
+Кадр: frame_30050.jpg
+  Маска 0: surfboard, Уверенность: 0.38, Координаты: (862, 0), (1914, 1061), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_30050_mask_0_surfboard.png
+
+Кадр: frame_30075.jpg
+  Маска 0: surfboard, Уверенность: 0.55, Координаты: (881, 0), (1917, 1054), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_30075_mask_0_surfboard.png
+
+Кадр: frame_30450.jpg
+  Маска 0: surfboard, Уверенность: 0.41, Координаты: (1510, 0), (1919, 589), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_30450_mask_0_surfboard.png
+
+Кадр: frame_31025.jpg
+  Маска 0: surfboard, Уверенность: 0.26, Координаты: (861, 0), (914, 22), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31025_mask_0_surfboard.png
+
+Кадр: frame_31100.jpg
+  Маска 0: umbrella, Уверенность: 0.52, Координаты: (1134, 45), (1208, 111), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31100_mask_0_umbrella.png
+  Маска 1: car, Уверенность: 0.35, Координаты: (1134, 45), (1208, 111), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31100_mask_1_car.png
+  Маска 2: person, Уверенность: 0.30, Координаты: (1177, 272), (1195, 305), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31100_mask_2_person.png
+
+Кадр: frame_31125.jpg
+  Маска 0: kite, Уверенность: 0.28, Координаты: (1044, 169), (1112, 236), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31125_mask_0_kite.png
+  Маска 1: boat, Уверенность: 0.26, Координаты: (769, 60), (818, 129), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31125_mask_1_boat.png
+
+Кадр: frame_31150.jpg
+  Маска 0: car, Уверенность: 0.50, Координаты: (1128, 150), (1201, 217), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31150_mask_0_car.png
+  Маска 1: traffic light, Уверенность: 0.25, Координаты: (1038, 221), (1111, 290), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31150_mask_1_traffic light.png
+
+Кадр: frame_31175.jpg
+  Маска 0: car, Уверенность: 0.42, Координаты: (1259, 196), (1333, 265), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31175_mask_0_car.png
+  Маска 1: chair, Уверенность: 0.27, Координаты: (890, 171), (939, 235), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31175_mask_1_chair.png
+
+Кадр: frame_31200.jpg
+  Маска 0: car, Уверенность: 0.57, Координаты: (1278, 252), (1351, 321), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31200_mask_0_car.png
+  Маска 1: car, Уверенность: 0.44, Координаты: (907, 224), (956, 292), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31200_mask_1_car.png
+  Маска 2: car, Уверенность: 0.27, Координаты: (1120, 0), (1185, 53), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31200_mask_2_car.png
+  Маска 3: chair, Уверенность: 0.26, Координаты: (906, 224), (956, 292), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31200_mask_3_chair.png
+
+Кадр: frame_31225.jpg
+  Маска 0: truck, Уверенность: 0.42, Координаты: (833, 0), (938, 76), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31225_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.41, Координаты: (910, 276), (960, 342), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31225_mask_1_car.png
+  Маска 2: car, Уверенность: 0.30, Координаты: (1122, 47), (1189, 101), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31225_mask_2_car.png
+
+Кадр: frame_31250.jpg
+  Маска 0: truck, Уверенность: 0.64, Координаты: (871, 14), (980, 128), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31250_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.57, Координаты: (951, 330), (1000, 397), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31250_mask_1_car.png
+  Маска 2: car, Уверенность: 0.39, Координаты: (1320, 355), (1394, 428), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31250_mask_2_car.png
+  Маска 3: car, Уверенность: 0.38, Координаты: (1160, 96), (1228, 151), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31250_mask_3_car.png
+  Маска 4: person, Уверенность: 0.26, Координаты: (867, 120), (879, 150), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31250_mask_4_person.png
+
+Кадр: frame_31275.jpg
+  Маска 0: chair, Уверенность: 0.48, Координаты: (979, 386), (1030, 455), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31275_mask_0_chair.png
+  Маска 1: tv, Уверенность: 0.38, Координаты: (1091, 89), (1175, 173), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31275_mask_1_tv.png
+  Маска 2: car, Уверенность: 0.38, Координаты: (1350, 410), (1425, 484), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31275_mask_2_car.png
+
+Кадр: frame_31300.jpg
+  Маска 0: truck, Уверенность: 0.64, Координаты: (912, 117), (1017, 233), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31300_mask_0_truck.png
+  Маска 1: car, Уверенность: 0.57, Координаты: (1202, 202), (1268, 256), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31300_mask_1_car.png
+  Маска 2: truck, Уверенность: 0.39, Координаты: (923, 0), (1025, 58), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31300_mask_2_truck.png
+  Маска 3: car, Уверенность: 0.35, Координаты: (1791, 489), (1892, 582), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31300_mask_3_car.png
+  Маска 4: car, Уверенность: 0.31, Координаты: (806, 81), (864, 128), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31300_mask_4_car.png
+  Маска 5: car, Уверенность: 0.27, Координаты: (993, 441), (1044, 511), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31300_mask_5_car.png
+
+Кадр: frame_31325.jpg
+  Маска 0: tv, Уверенность: 0.48, Координаты: (1128, 192), (1214, 277), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31325_mask_0_tv.png
+  Маска 1: chair, Уверенность: 0.39, Координаты: (1018, 495), (1069, 567), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31325_mask_1_chair.png
+  Маска 2: car, Уверенность: 0.37, Координаты: (1388, 518), (1460, 594), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31325_mask_2_car.png
+  Маска 3: car, Уверенность: 0.33, Координаты: (1813, 535), (1908, 631), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31325_mask_3_car.png
+  Маска 4: truck, Уверенность: 0.28, Координаты: (947, 45), (1048, 108), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31325_mask_4_truck.png
+  Маска 5: car, Уверенность: 0.28, Координаты: (1018, 495), (1069, 567), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31325_mask_5_car.png
+
+Кадр: frame_31350.jpg
+  Маска 0: chair, Уверенность: 0.45, Координаты: (1065, 551), (1116, 623), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31350_mask_0_chair.png
+  Маска 1: tv, Уверенность: 0.38, Координаты: (1173, 242), (1258, 330), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31350_mask_1_tv.png
+  Маска 2: laptop, Уверенность: 0.34, Координаты: (1172, 241), (1259, 329), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31350_mask_2_laptop.png
+  Маска 3: car, Уверенность: 0.32, Координаты: (1860, 622), (1919, 681), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31350_mask_3_car.png
+  Маска 4: car, Уверенность: 0.30, Координаты: (1435, 570), (1509, 648), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31350_mask_4_car.png
+
+Кадр: frame_31375.jpg
+  Маска 0: tv, Уверенность: 0.57, Координаты: (1147, 297), (1231, 384), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31375_mask_0_tv.png
+  Маска 1: truck, Уверенность: 0.33, Координаты: (953, 277), (1061, 395), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31375_mask_1_truck.png
+  Маска 2: car, Уверенность: 0.32, Координаты: (1040, 609), (1092, 679), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31375_mask_2_car.png
+  Маска 3: car, Уверенность: 0.31, Координаты: (1336, 414), (1390, 474), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31375_mask_3_car.png
+  Маска 4: car, Уверенность: 0.28, Координаты: (1784, 721), (1844, 794), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31375_mask_4_car.png
+  Маска 5: car, Уверенность: 0.27, Координаты: (1392, 626), (1480, 706), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31375_mask_5_car.png
+
+Кадр: frame_31400.jpg
+  Маска 0: car, Уверенность: 0.53, Координаты: (1162, 665), (1213, 738), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31400_mask_0_car.png
+  Маска 1: car, Уверенность: 0.51, Координаты: (1534, 683), (1605, 758), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31400_mask_1_car.png
+  Маска 2: truck, Уверенность: 0.39, Координаты: (1071, 327), (1178, 450), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31400_mask_2_truck.png
+  Маска 3: tv, Уверенность: 0.36, Координаты: (1267, 347), (1351, 435), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31400_mask_3_tv.png
+  Маска 4: car, Уверенность: 0.32, Координаты: (1447, 774), (1518, 844), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31400_mask_4_car.png
+
+Кадр: frame_31425.jpg
+  Маска 0: tv, Уверенность: 0.51, Координаты: (1319, 399), (1404, 487), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31425_mask_0_tv.png
+  Маска 1: car, Уверенность: 0.47, Координаты: (1213, 720), (1265, 793), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31425_mask_1_car.png
+  Маска 2: truck, Уверенность: 0.40, Координаты: (1122, 381), (1228, 504), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31425_mask_2_truck.png
+  Маска 3: tv, Уверенность: 0.28, Координаты: (1417, 462), (1487, 517), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31425_mask_3_tv.png
+
+Кадр: frame_31450.jpg
+  Маска 0: car, Уверенность: 0.38, Координаты: (1393, 519), (1462, 573), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31450_mask_0_car.png
+  Маска 1: car, Уверенность: 0.30, Координаты: (1559, 785), (1631, 866), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31450_mask_1_car.png
+  Маска 2: car, Уверенность: 0.29, Координаты: (1194, 778), (1246, 851), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31450_mask_2_car.png
+  Маска 3: truck, Уверенность: 0.28, Координаты: (1101, 437), (1209, 561), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31450_mask_3_truck.png
+  Маска 4: car, Уверенность: 0.25, Координаты: (1490, 572), (1541, 632), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31450_mask_4_car.png
+
+Кадр: frame_31475.jpg
+  Маска 0: car, Уверенность: 0.37, Координаты: (1229, 831), (1281, 906), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31475_mask_0_car.png
+  Маска 1: car, Уверенность: 0.28, Координаты: (1428, 570), (1494, 623), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31475_mask_1_car.png
+  Маска 2: tv, Уверенность: 0.27, Координаты: (1331, 506), (1417, 594), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31475_mask_2_tv.png
+
+Кадр: frame_31550.jpg
+  Маска 0: laptop, Уверенность: 0.38, Координаты: (1482, 673), (1571, 764), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31550_mask_0_laptop.png
+
+Кадр: frame_31600.jpg
+  Маска 0: cup, Уверенность: 0.31, Координаты: (1709, 851), (1781, 908), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_31600_mask_0_cup.png
+
+Кадр: frame_32550.jpg
+  Маска 0: surfboard, Уверенность: 0.25, Координаты: (559, 119), (1207, 1069), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_32550_mask_0_surfboard.png
+
+Кадр: frame_32775.jpg
+  Маска 0: surfboard, Уверенность: 0.36, Координаты: (2, 283), (956, 334), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_32775_mask_0_surfboard.png
+
+Кадр: frame_32900.jpg
+  Маска 0: surfboard, Уверенность: 0.32, Координаты: (7, 485), (1920, 613), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_32900_mask_0_surfboard.png
+
+Кадр: frame_32950.jpg
+  Маска 0: surfboard, Уверенность: 0.35, Координаты: (5, 609), (1918, 708), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_32950_mask_0_surfboard.png
+
+Кадр: frame_33200.jpg
+  Маска 0: surfboard, Уверенность: 0.46, Координаты: (0, 553), (1915, 621), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_33200_mask_0_surfboard.png
+
+Кадр: frame_33225.jpg
+  Маска 0: surfboard, Уверенность: 0.45, Координаты: (3, 513), (1917, 612), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_33225_mask_0_surfboard.png
+
+Кадр: frame_33275.jpg
+  Маска 0: surfboard, Уверенность: 0.42, Координаты: (1, 448), (1916, 532), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_33275_mask_0_surfboard.png
+
+Кадр: frame_33300.jpg
+  Маска 0: surfboard, Уверенность: 0.26, Координаты: (20, 432), (1918, 510), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_33300_mask_0_surfboard.png
+
+Кадр: frame_33350.jpg
+  Маска 0: surfboard, Уверенность: 0.35, Координаты: (3, 307), (1918, 502), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_33350_mask_0_surfboard.png
+  Маска 1: surfboard, Уверенность: 0.31, Координаты: (2, 366), (1917, 472), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_33350_mask_1_surfboard.png
+
+Кадр: frame_33500.jpg
+  Маска 0: surfboard, Уверенность: 0.36, Координаты: (9, 279), (1916, 338), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_33500_mask_0_surfboard.png
+
+Кадр: frame_33825.jpg
+  Маска 0: surfboard, Уверенность: 0.59, Координаты: (1301, 2), (1917, 1065), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_33825_mask_0_surfboard.png
+
+Кадр: frame_35775.jpg
+  Маска 0: kite, Уверенность: 0.27, Координаты: (1618, 23), (1694, 94), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_35775_mask_0_kite.png
+
+Кадр: frame_35875.jpg
+  Маска 0: boat, Уверенность: 0.28, Координаты: (1357, 76), (1414, 143), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_35875_mask_0_boat.png
+
+Кадр: frame_35950.jpg
+  Маска 0: car, Уверенность: 0.32, Координаты: (1396, 188), (1455, 259), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_35950_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.27, Координаты: (1396, 188), (1455, 260), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_35950_mask_1_truck.png
+
+Кадр: frame_35975.jpg
+  Маска 0: car, Уверенность: 0.51, Координаты: (1402, 226), (1463, 300), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_35975_mask_0_car.png
+  Маска 1: car, Уверенность: 0.37, Координаты: (1822, 223), (1902, 307), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_35975_mask_1_car.png
+
+Кадр: frame_36000.jpg
+  Маска 0: car, Уверенность: 0.54, Координаты: (1423, 266), (1484, 341), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36000_mask_0_car.png
+  Маска 1: person, Уверенность: 0.42, Координаты: (1847, 262), (1919, 345), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36000_mask_1_person.png
+
+Кадр: frame_36025.jpg
+  Маска 0: car, Уверенность: 0.54, Координаты: (1424, 303), (1485, 378), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36025_mask_0_car.png
+  Маска 1: car, Уверенность: 0.38, Координаты: (1625, 26), (1701, 88), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36025_mask_1_car.png
+  Маска 2: car, Уверенность: 0.31, Координаты: (1735, 73), (1801, 139), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36025_mask_2_car.png
+  Маска 3: truck, Уверенность: 0.30, Координаты: (1292, 0), (1413, 87), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36025_mask_3_truck.png
+
+Кадр: frame_36050.jpg
+  Маска 0: person, Уверенность: 0.34, Координаты: (1868, 337), (1919, 422), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36050_mask_0_person.png
+  Маска 1: car, Уверенность: 0.27, Координаты: (1441, 339), (1501, 416), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36050_mask_1_car.png
+  Маска 2: car, Уверенность: 0.27, Координаты: (1642, 60), (1720, 119), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36050_mask_2_car.png
+  Маска 3: truck, Уверенность: 0.25, Координаты: (1311, 0), (1431, 120), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36050_mask_3_truck.png
+
+Кадр: frame_36075.jpg
+  Маска 0: car, Уверенность: 0.50, Координаты: (1450, 378), (1510, 456), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36075_mask_0_car.png
+  Маска 1: car, Уверенность: 0.41, Координаты: (1651, 95), (1729, 155), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36075_mask_1_car.png
+  Маска 2: truck, Уверенность: 0.41, Координаты: (1315, 26), (1439, 154), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36075_mask_2_truck.png
+  Маска 3: person, Уверенность: 0.39, Координаты: (1325, 154), (1339, 181), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36075_mask_3_person.png
+  Маска 4: car, Уверенность: 0.33, Координаты: (1764, 143), (1831, 209), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36075_mask_4_car.png
+
+Кадр: frame_36100.jpg
+  Маска 0: car, Уверенность: 0.41, Координаты: (1460, 416), (1521, 493), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36100_mask_0_car.png
+  Маска 1: car, Уверенность: 0.37, Координаты: (1778, 175), (1845, 246), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36100_mask_1_car.png
+  Маска 2: umbrella, Уверенность: 0.30, Координаты: (1895, 441), (1919, 497), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36100_mask_2_umbrella.png
+  Маска 3: car, Уверенность: 0.25, Координаты: (1664, 130), (1744, 190), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36100_mask_3_car.png
+
+Кадр: frame_36125.jpg
+  Маска 0: umbrella, Уверенность: 0.61, Координаты: (1885, 475), (1919, 539), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36125_mask_0_umbrella.png
+  Маска 1: car, Уверенность: 0.33, Координаты: (1452, 454), (1513, 536), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36125_mask_1_car.png
+
+Кадр: frame_36150.jpg
+  Маска 0: car, Уверенность: 0.64, Координаты: (1474, 495), (1536, 573), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36150_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.63, Координаты: (1335, 0), (1452, 63), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36150_mask_1_truck.png
+  Маска 2: car, Уверенность: 0.50, Координаты: (1799, 249), (1861, 317), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36150_mask_2_car.png
+  Маска 3: car, Уверенность: 0.50, Координаты: (1210, 97), (1279, 150), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36150_mask_3_car.png
+  Маска 4: truck, Уверенность: 0.44, Координаты: (1339, 128), (1463, 263), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36150_mask_4_truck.png
+  Маска 5: person, Уверенность: 0.42, Координаты: (1346, 259), (1363, 288), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36150_mask_5_person.png
+  Маска 6: car, Уверенность: 0.38, Координаты: (1677, 200), (1759, 260), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36150_mask_6_car.png
+  Маска 7: car, Уверенность: 0.32, Координаты: (1887, 293), (1919, 355), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36150_mask_7_car.png
+
+Кадр: frame_36175.jpg
+  Маска 0: car, Уверенность: 0.57, Координаты: (1479, 532), (1542, 611), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36175_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.53, Координаты: (1340, 20), (1455, 96), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36175_mask_1_truck.png
+  Маска 2: truck, Уверенность: 0.49, Координаты: (1343, 163), (1473, 300), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36175_mask_2_truck.png
+  Маска 3: car, Уверенность: 0.35, Координаты: (1803, 284), (1872, 353), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36175_mask_3_car.png
+  Маска 4: car, Уверенность: 0.32, Координаты: (1218, 129), (1287, 182), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36175_mask_4_car.png
+
+Кадр: frame_36200.jpg
+  Маска 0: car, Уверенность: 0.32, Координаты: (1503, 568), (1566, 650), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36200_mask_0_car.png
+
+Кадр: frame_36225.jpg
+  Маска 0: car, Уверенность: 0.58, Координаты: (1505, 602), (1570, 684), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36225_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.54, Координаты: (1370, 227), (1497, 363), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36225_mask_1_truck.png
+  Маска 2: truck, Уверенность: 0.43, Координаты: (1363, 79), (1480, 156), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36225_mask_2_truck.png
+  Маска 3: tv, Уверенность: 0.34, Координаты: (1596, 233), (1695, 331), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36225_mask_3_tv.png
+  Маска 4: car, Уверенность: 0.29, Координаты: (1241, 195), (1309, 247), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36225_mask_4_car.png
+  Маска 5: person, Уверенность: 0.25, Координаты: (1376, 360), (1394, 391), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36225_mask_5_person.png
+
+Кадр: frame_36250.jpg
+  Маска 0: car, Уверенность: 0.66, Координаты: (1516, 637), (1582, 721), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36250_mask_0_car.png
+  Маска 1: car, Уверенность: 0.54, Координаты: (1247, 224), (1319, 279), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36250_mask_1_car.png
+  Маска 2: truck, Уверенность: 0.52, Координаты: (1372, 108), (1496, 186), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36250_mask_2_truck.png
+  Маска 3: umbrella, Уверенность: 0.52, Координаты: (1873, 740), (1919, 829), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36250_mask_3_umbrella.png
+  Маска 4: truck, Уверенность: 0.51, Координаты: (1379, 257), (1510, 394), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36250_mask_4_truck.png
+  Маска 5: car, Уверенность: 0.41, Координаты: (1726, 329), (1810, 393), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36250_mask_5_car.png
+  Маска 6: truck, Уверенность: 0.31, Координаты: (1607, 263), (1708, 364), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36250_mask_6_truck.png
+
+Кадр: frame_36275.jpg
+  Маска 0: umbrella, Уверенность: 0.40, Координаты: (1874, 775), (1919, 862), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36275_mask_0_umbrella.png
+  Маска 1: car, Уверенность: 0.39, Координаты: (1728, 361), (1811, 423), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36275_mask_1_car.png
+  Маска 2: tv, Уверенность: 0.30, Координаты: (1609, 295), (1709, 394), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36275_mask_2_tv.png
+  Маска 3: car, Уверенность: 0.25, Координаты: (1247, 256), (1318, 311), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36275_mask_3_car.png
+
+Кадр: frame_36300.jpg
+  Маска 0: umbrella, Уверенность: 0.55, Координаты: (1868, 809), (1919, 899), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36300_mask_0_umbrella.png
+  Маска 1: laptop, Уверенность: 0.48, Координаты: (1606, 326), (1705, 425), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36300_mask_1_laptop.png
+  Маска 2: car, Уверенность: 0.45, Координаты: (1514, 707), (1578, 790), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36300_mask_2_car.png
+  Маска 3: truck, Уверенность: 0.45, Координаты: (1370, 167), (1492, 246), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36300_mask_3_truck.png
+  Маска 4: tv, Уверенность: 0.41, Координаты: (1606, 326), (1705, 426), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36300_mask_4_tv.png
+
+Кадр: frame_36325.jpg
+  Маска 0: laptop, Уверенность: 0.49, Координаты: (1618, 386), (1722, 490), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36325_mask_0_laptop.png
+  Маска 1: umbrella, Уверенность: 0.36, Координаты: (1871, 885), (1919, 975), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36325_mask_1_umbrella.png
+  Маска 2: cell phone, Уверенность: 0.26, Координаты: (1863, 515), (1919, 590), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36325_mask_2_cell phone.png
+
+Кадр: frame_36350.jpg
+  Маска 0: laptop, Уверенность: 0.69, Координаты: (1652, 497), (1759, 605), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36350_mask_0_laptop.png
+
+Кадр: frame_36375.jpg
+  Маска 0: truck, Уверенность: 0.32, Координаты: (1447, 579), (1572, 724), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36375_mask_0_truck.png
+
+Кадр: frame_36450.jpg
+  Маска 0: laptop, Уверенность: 0.41, Координаты: (1708, 869), (1823, 985), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36450_mask_0_laptop.png
+
+Кадр: frame_36475.jpg
+  Маска 0: laptop, Уверенность: 0.26, Координаты: (1721, 828), (1832, 943), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36475_mask_0_laptop.png
+
+Кадр: frame_36500.jpg
+  Маска 0: laptop, Уверенность: 0.37, Координаты: (1718, 744), (1829, 858), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36500_mask_0_laptop.png
+
+Кадр: frame_36525.jpg
+  Маска 0: laptop, Уверенность: 0.67, Координаты: (1716, 688), (1828, 798), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36525_mask_0_laptop.png
+  Маска 1: laptop, Уверенность: 0.38, Координаты: (1488, 493), (1617, 571), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36525_mask_1_laptop.png
+  Маска 2: laptop, Уверенность: 0.29, Координаты: (1479, 658), (1609, 807), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36525_mask_2_laptop.png
+
+Кадр: frame_36550.jpg
+  Маска 0: laptop, Уверенность: 0.41, Координаты: (1720, 694), (1831, 803), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36550_mask_0_laptop.png
+  Маска 1: laptop, Уверенность: 0.32, Координаты: (1488, 501), (1620, 583), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36550_mask_1_laptop.png
+  Маска 2: laptop, Уверенность: 0.30, Координаты: (1844, 772), (1919, 841), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36550_mask_2_laptop.png
+
+Кадр: frame_36975.jpg
+  Маска 0: bird, Уверенность: 0.25, Координаты: (1409, 271), (1427, 287), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_36975_mask_0_bird.png
+
+Кадр: frame_37050.jpg
+  Маска 0: bird, Уверенность: 0.34, Координаты: (1565, 324), (1591, 344), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_37050_mask_0_bird.png
+  Маска 1: bird, Уверенность: 0.34, Координаты: (1697, 285), (1725, 313), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_37050_mask_1_bird.png
+
+Кадр: frame_37075.jpg
+  Маска 0: bird, Уверенность: 0.33, Координаты: (1736, 307), (1768, 338), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_37075_mask_0_bird.png
+  Маска 1: bird, Уверенность: 0.27, Координаты: (1605, 336), (1631, 359), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_37075_mask_1_bird.png
+
+Кадр: frame_37125.jpg
+  Маска 0: bird, Уверенность: 0.31, Координаты: (1639, 354), (1658, 380), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_37125_mask_0_bird.png
+  Маска 1: bird, Уверенность: 0.26, Координаты: (1780, 352), (1815, 377), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_37125_mask_1_bird.png
+
+Кадр: frame_37150.jpg
+  Маска 0: surfboard, Уверенность: 0.33, Координаты: (0, 772), (834, 1069), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_37150_mask_0_surfboard.png
+
+Кадр: frame_37225.jpg
+  Маска 0: person, Уверенность: 0.26, Координаты: (1693, 357), (1712, 382), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_37225_mask_0_person.png
+
+Кадр: frame_37250.jpg
+  Маска 0: bench, Уверенность: 0.28, Координаты: (0, 772), (70, 841), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_37250_mask_0_bench.png
+
+Кадр: frame_37325.jpg
+  Маска 0: person, Уверенность: 0.61, Координаты: (1702, 302), (1720, 328), Путь к маске: output_images_v00000.mkv_8_instanse/mask_output/frame_37325_mask_0_person.png

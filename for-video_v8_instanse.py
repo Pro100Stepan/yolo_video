@@ -5,49 +5,41 @@ import numpy as np
 
 # Загрузка предобученной модели YOLOv8 для сегментации
 version = '8'
-model = YOLO('yolov8x-seg.pt')  # Используем предобученную модель YOLOv8 для сегментации
+model = YOLO('yolov8x-seg.pt')  # Используем сегментационную модель YOLOv8
 
 # Словарь классов для COCO
 coco_classes = [
-    "person", "bicycle", "car", "motorcycle", "airplane", "bus", "train", "truck", "boat", "traffic light",
-    "fire hydrant", "none", "stop sign", "parking meter", "bench", "bird", "cat", "dog", "horse", "sheep",
-    "cow", "elephant", "bear", "zebra", "giraffe", "none", "backpack", "umbrella", "none", "handbag", "tie",
-    "suitcase", "frisbee", "skis", "snowboard", "sports ball", "kite", "baseball bat", "baseball glove",
-    "skateboard", "surfboard", "tennis racket", "bottle", "none", "wine glass", "cup", "fork", "knife", "spoon",
-    "bowl", "banana", "apple", "sandwich", "orange", "broccoli", "carrot", "hot dog", "pizza", "donut", "cake",
-    "chair", "couch", "potted plant", "bed", "dining table", "none", "toilet", "none", "tv", "laptop", "mouse",
-    "remote", "keyboard", "cell phone", "microwave", "oven", "toaster", "sink", "refrigerator", "book", "clock",
-    "vase", "scissors", "teddy bear", "hair drier", "toothbrush"
+    'person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus', 'train', 'truck', 'boat',
+    'traffic light', 'fire hydrant', 'stop sign', 'parking meter', 'bench', 'bird', 'cat', 'dog', 'horse',
+    'sheep', 'cow', 'elephant', 'bear', 'zebra', 'giraffe', 'backpack', 'umbrella', 'handbag', 'tie',
+    'suitcase', 'frisbee', 'skis', 'snowboard', 'sports ball', 'kite', 'baseball bat', 'baseball glove',
+    'skateboard', 'surfboard', 'tennis racket', 'bottle', 'wine glass', 'cup', 'fork', 'knife', 'spoon',
+    'bowl', 'banana', 'apple', 'sandwich', 'orange', 'broccoli', 'carrot', 'hot dog', 'pizza', 'donut',
+    'cake', 'chair', 'couch', 'potted plant', 'bed', 'dining table', 'toilet', 'tv', 'laptop', 'mouse',
+    'remote', 'keyboard', 'cell phone', 'microwave', 'oven', 'toaster', 'sink', 'refrigerator', 'book',
+    'clock', 'vase', 'scissors', 'teddy bear', 'hair drier', 'toothbrush'
 ]
 
-video_path = "video/video1.MP4"  # Укажите путь к вашему видеофайлу
+video_path = "video/video1.mp4"  # Укажите путь к вашему видеофайлу
 
-# Папка для сохранения результатов
+# Папки для сохранения результатов
 output_folder = f"output_images_{os.path.basename(video_path)}_{version}_instanse/"
+mask_output_folder = output_folder+"mask_output/"
 os.makedirs(output_folder, exist_ok=True)
+os.makedirs(mask_output_folder, exist_ok=True)
 
-# Функция для вычисления IoU
-def calculate_iou(box1, box2):
-    x1, y1, x2, y2 = box1
-    x1_gt, y1_gt, x2_gt, y2_gt = box2
-    
-    # Координаты пересечения
-    x_left = max(x1, x1_gt)
-    y_top = max(y1, y1_gt)
-    x_right = min(x2, x2_gt)
-    y_bottom = min(y2, y2_gt)
-    
-    # Площадь пересечения
-    intersection_area = max(0, x_right - x_left) * max(0, y_bottom - y_top)
-    
-    # Площадь объединения
-    box1_area = (x2 - x1) * (y2 - y1)
-    box2_area = (x2_gt - x1_gt) * (y2_gt - y1_gt)
-    union_area = box1_area + box2_area - intersection_area
-    
-    # IoU
-    iou = intersection_area / union_area if union_area != 0 else 0
-    return iou
+# Функция для наложения маски на изображение
+def apply_mask(image, mask, color):
+    """Наложение маски на изображение."""
+    mask = cv2.resize(mask, (image.shape[1], image.shape[0]))  # Приведение маски к размеру изображения
+    mask = mask > 0.5  # Бинаризация маски
+    for c in range(3):  # Применение цвета ко всем каналам (RGB)
+        image[:, :, c] = np.where(mask, color[c], image[:, :, c])
+
+# Функция для сохранения маски
+def save_mask(mask, output_path):
+    mask = (cv2.resize(mask, (640, 480)) * 255).astype(np.uint8)  # Преобразование в формат изображения
+    cv2.imwrite(output_path, mask)
 
 # Открытие видео
 cap = cv2.VideoCapture(video_path)
@@ -56,68 +48,68 @@ if not cap.isOpened():
     print("Ошибка при открытии видео")
     exit()
 
-# Получаем исходные параметры видео
-frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))  # Ширина кадра
-frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))  # Высота кадра
-video_fps = cap.get(cv2.CAP_PROP_FPS)  # Частота кадров в исходном видео
-frame_interval = int(video_fps // 1)  # Частота кадров для извлечения (каждую секунду)
+# Получаем параметры видео
+frame_width = int(cap.get(cv2.CAP_PROP_FRAME_WIDTH))
+frame_height = int(cap.get(cv2.CAP_PROP_FRAME_HEIGHT))
+video_fps = cap.get(cv2.CAP_PROP_FPS)
+frame_interval = int(video_fps // 1)
 
-frame_idx = 0  # Индекс текущего кадра
+frame_idx = 0
 
-# Списки для хранения значений IoU
-ious = []
+# Открываем файл для записи метрик
+metrics_file = output_folder + "metrics_output.txt"
+with open(metrics_file, "w", encoding="utf-8-sig") as f:
+    while cap.isOpened():
+        ret, frame = cap.read()
+        if not ret:
+            break
 
-# Обработка видео
-while cap.isOpened():
-    ret, frame = cap.read()
+        if frame_idx % frame_interval == 0:
+            results = model(frame)
 
-    if not ret:
-        break  # Завершаем, если достигнут конец видео
+            if results[0].masks is not None:  # Проверяем наличие масок
+                masks = results[0].masks.data.cpu().numpy()  # Маски объектов
+                boxes = results[0].boxes.xyxy.numpy()  # Координаты рамок
+                current_confidences = results[0].boxes.conf.numpy()
+                current_classes = results[0].boxes.cls.numpy()
 
-    # Пропускаем кадры, чтобы достичь 1 кадра в секунду
-    if frame_idx % frame_interval == 0:
-        # YOLO сегментация
-        results = model(frame)
+                # Запись информации о кадре
+                frame_name = f"frame_{frame_idx}.jpg"
+                f.write(f"Кадр: {frame_name}\n")
 
-        # Проверка, есть ли детекции и маски
-        if results[0].masks is not None:
-            masks = results[0].masks.data.numpy()  # Маски объектов
-            classes = results[0].boxes.cls.numpy()  # Классы объектов
-            boxes = results[0].boxes.xyxy.numpy()  # Координаты объектов
+                # Наложение масок и запись метрик
+                for i, (mask, box, cls, conf) in enumerate(zip(masks, boxes, current_classes, current_confidences)):
+                    x1, y1, x2, y2 = map(int, box)
+                    class_name = coco_classes[int(cls)]
+                    label = f"{class_name}: {conf:.2f}"
 
-            # Применяем маски на изображение
-            for i, mask in enumerate(masks):
-                # Изменяем размер маски под размер кадра
-                mask_resized = cv2.resize(mask.astype(np.uint8), (frame_width, frame_height))
+                    # Генерация случайного цвета для маски
+                    color = np.random.randint(0, 255, (3,), dtype=int)
 
-                color = np.random.randint(0, 255, (3,), dtype="uint8")  # Случайный цвет для каждого объекта
-                mask_resized = mask_resized.astype(bool)  # Преобразуем маску в булевый массив
+                    # Масштабирование маски и наложение её на кадр
+                    apply_mask(frame, mask, color)
 
-                # Наложение маски на изображение
-                frame[mask_resized] = frame[mask_resized] * 0.5 + np.array(color) * 0.5
+                    # Рисуем рамку и подпись
+                    cv2.rectangle(frame, (x1, y1), (x2, y2), color.tolist(), 2)
+                    cv2.putText(frame, label, (x1, y1 - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, color.tolist(), 2)
 
-            # Рисуем bounding box и текст с правильными именами классов
-            for box, cls in zip(boxes, classes):
-                x1, y1, x2, y2 = map(int, box)
-                label = coco_classes[int(cls)]  # Получаем имя класса по индексу
-                cv2.rectangle(frame, (x1, y1), (x2, y2), (255, 255, 255), 2)
-                cv2.putText(frame, label, (x1, y1 - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (255, 255, 255), 2)
+                    # Сохранение маски как отдельного файла
+                    mask_filename = f"frame_{frame_idx}_mask_{i}_{class_name}.png"
+                    mask_output_path = os.path.join(mask_output_folder, mask_filename)
+                    save_mask(mask, mask_output_path)
 
-                # Пример: Для вычисления IoU сравниваем с фиксированным ground truth (например, для объекта)
-                ground_truth_box = [100, 100, 200, 200]  # Пример ground truth
-                iou = calculate_iou(box, ground_truth_box)
-                ious.append(iou)
+                    # Запись метрик маски
+                    f.write(f"  Маска {i}: {class_name}, Уверенность: {conf:.2f}, Координаты: ({x1}, {y1}), ({x2}, {y2}), Путь к маске: {mask_output_path}\n")
 
-            # Сохраняем результат как изображение
-            output_path = os.path.join(output_folder, f"frame_{frame_idx}.jpg")
-            cv2.imwrite(output_path, frame)
+                # Сохранение кадра с наложенными масками
+                output_path = os.path.join(output_folder, frame_name)
+                cv2.imwrite(output_path, frame)
 
-    frame_idx += 1
+                f.write("\n")  # Разделитель для следующего кадра
 
-# Вычисляем среднее IoU (MOI)
-mean_iou = np.mean(ious) if ious else 0
-print(f"Mean IoU (MOI): {mean_iou}")
+        frame_idx += 1
 
-# Освобождение ресурсов
+# Завершаем работу
 cap.release()
 cv2.destroyAllWindows()
+print(f"Метрики записаны в файл {metrics_file}")

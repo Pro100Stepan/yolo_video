@@ -1,0 +1,343 @@
+﻿Кадр: frame_184.jpg
+  Маска 0: person, Уверенность: 0.71, Координаты: (944, 616), (983, 682), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_184_mask_0_person.png
+  Маска 1: person, Уверенность: 0.50, Координаты: (1026, 537), (1057, 586), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_184_mask_1_person.png
+  Маска 2: motorcycle, Уверенность: 0.39, Координаты: (944, 645), (978, 703), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_184_mask_2_motorcycle.png
+  Маска 3: motorcycle, Уверенность: 0.28, Координаты: (1025, 550), (1055, 604), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_184_mask_3_motorcycle.png
+
+Кадр: frame_207.jpg
+  Маска 0: person, Уверенность: 0.61, Координаты: (943, 576), (981, 634), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_207_mask_0_person.png
+  Маска 1: person, Уверенность: 0.39, Координаты: (1091, 540), (1121, 596), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_207_mask_1_person.png
+  Маска 2: motorcycle, Уверенность: 0.27, Координаты: (944, 607), (975, 659), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_207_mask_2_motorcycle.png
+
+Кадр: frame_230.jpg
+  Маска 0: person, Уверенность: 0.64, Координаты: (850, 553), (906, 631), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_230_mask_0_person.png
+  Маска 1: person, Уверенность: 0.52, Координаты: (1163, 535), (1195, 594), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_230_mask_1_person.png
+  Маска 2: bicycle, Уверенность: 0.46, Координаты: (1160, 558), (1196, 602), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_230_mask_2_bicycle.png
+
+Кадр: frame_253.jpg
+  Маска 0: person, Уверенность: 0.57, Координаты: (785, 526), (827, 601), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_253_mask_0_person.png
+  Маска 1: person, Уверенность: 0.38, Координаты: (1186, 540), (1219, 601), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_253_mask_1_person.png
+  Маска 2: bicycle, Уверенность: 0.28, Координаты: (780, 562), (834, 607), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_253_mask_2_bicycle.png
+  Маска 3: motorcycle, Уверенность: 0.26, Координаты: (1185, 560), (1221, 605), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_253_mask_3_motorcycle.png
+
+Кадр: frame_276.jpg
+  Маска 0: person, Уверенность: 0.68, Координаты: (698, 542), (743, 619), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_276_mask_0_person.png
+  Маска 1: motorcycle, Уверенность: 0.67, Координаты: (676, 579), (752, 636), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_276_mask_1_motorcycle.png
+  Маска 2: person, Уверенность: 0.52, Координаты: (1171, 518), (1204, 580), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_276_mask_2_person.png
+  Маска 3: sheep, Уверенность: 0.26, Координаты: (88, 752), (147, 797), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_276_mask_3_sheep.png
+
+Кадр: frame_299.jpg
+  Маска 0: person, Уверенность: 0.70, Координаты: (634, 559), (688, 625), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_299_mask_0_person.png
+  Маска 1: bicycle, Уверенность: 0.42, Координаты: (620, 600), (700, 644), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_299_mask_1_bicycle.png
+  Маска 2: motorcycle, Уверенность: 0.39, Координаты: (1153, 530), (1189, 573), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_299_mask_2_motorcycle.png
+  Маска 3: person, Уверенность: 0.28, Координаты: (1156, 505), (1187, 564), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_299_mask_3_person.png
+
+Кадр: frame_322.jpg
+  Маска 0: motorcycle, Уверенность: 0.84, Координаты: (700, 453), (927, 715), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_322_mask_0_motorcycle.png
+  Маска 1: person, Уверенность: 0.83, Координаты: (1087, 147), (1188, 341), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_322_mask_1_person.png
+  Маска 2: person, Уверенность: 0.80, Координаты: (715, 409), (857, 620), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_322_mask_2_person.png
+  Маска 3: motorcycle, Уверенность: 0.68, Координаты: (1099, 226), (1193, 416), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_322_mask_3_motorcycle.png
+
+Кадр: frame_345.jpg
+  Маска 0: person, Уверенность: 0.87, Координаты: (972, 83), (1094, 273), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_345_mask_0_person.png
+  Маска 1: motorcycle, Уверенность: 0.83, Координаты: (894, 163), (1137, 304), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_345_mask_1_motorcycle.png
+  Маска 2: person, Уверенность: 0.80, Координаты: (283, 254), (437, 490), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_345_mask_2_person.png
+  Маска 3: motorcycle, Уверенность: 0.79, Координаты: (244, 327), (468, 573), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_345_mask_3_motorcycle.png
+
+Кадр: frame_368.jpg
+  Маска 0: motorcycle, Уверенность: 0.89, Координаты: (0, 262), (348, 462), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_368_mask_0_motorcycle.png
+  Маска 1: person, Уверенность: 0.89, Координаты: (1005, 204), (1163, 423), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_368_mask_1_person.png
+  Маска 2: motorcycle, Уверенность: 0.88, Координаты: (913, 287), (1207, 497), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_368_mask_2_motorcycle.png
+  Маска 3: person, Уверенность: 0.88, Координаты: (68, 193), (217, 451), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_368_mask_3_person.png
+
+Кадр: frame_391.jpg
+  Маска 0: skis, Уверенность: 0.51, Координаты: (1423, 90), (1599, 244), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_391_mask_0_skis.png
+  Маска 1: person, Уверенность: 0.49, Координаты: (1357, 468), (1405, 550), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_391_mask_1_person.png
+  Маска 2: person, Уверенность: 0.44, Координаты: (1579, 614), (1633, 663), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_391_mask_2_person.png
+
+Кадр: frame_460.jpg
+  Маска 0: person, Уверенность: 0.46, Координаты: (950, 325), (993, 365), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_460_mask_0_person.png
+
+Кадр: frame_483.jpg
+  Маска 0: person, Уверенность: 0.26, Координаты: (1051, 283), (1080, 324), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_483_mask_0_person.png
+
+Кадр: frame_529.jpg
+  Маска 0: baseball bat, Уверенность: 0.63, Координаты: (0, 137), (176, 226), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_529_mask_0_baseball bat.png
+
+Кадр: frame_552.jpg
+  Маска 0: baseball bat, Уверенность: 0.32, Координаты: (0, 233), (311, 314), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_552_mask_0_baseball bat.png
+
+Кадр: frame_575.jpg
+  Маска 0: person, Уверенность: 0.79, Координаты: (760, 499), (825, 613), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_575_mask_0_person.png
+  Маска 1: person, Уверенность: 0.67, Координаты: (852, 306), (888, 383), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_575_mask_1_person.png
+  Маска 2: person, Уверенность: 0.63, Координаты: (816, 361), (856, 431), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_575_mask_2_person.png
+  Маска 3: bicycle, Уверенность: 0.49, Координаты: (775, 556), (822, 653), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_575_mask_3_bicycle.png
+  Маска 4: bicycle, Уверенность: 0.37, Координаты: (831, 403), (855, 467), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_575_mask_4_bicycle.png
+
+Кадр: frame_598.jpg
+  Маска 0: person, Уверенность: 0.78, Координаты: (385, 561), (453, 713), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_598_mask_0_person.png
+  Маска 1: person, Уверенность: 0.70, Координаты: (515, 407), (570, 511), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_598_mask_1_person.png
+  Маска 2: bicycle, Уверенность: 0.66, Координаты: (530, 465), (567, 538), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_598_mask_2_bicycle.png
+  Маска 3: bicycle, Уверенность: 0.57, Координаты: (393, 621), (478, 752), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_598_mask_3_bicycle.png
+  Маска 4: person, Уверенность: 0.53, Координаты: (573, 354), (617, 440), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_598_mask_4_person.png
+
+Кадр: frame_621.jpg
+  Маска 0: person, Уверенность: 0.76, Координаты: (11, 554), (63, 688), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_621_mask_0_person.png
+  Маска 1: person, Уверенность: 0.60, Координаты: (158, 479), (209, 566), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_621_mask_1_person.png
+  Маска 2: bicycle, Уверенность: 0.49, Координаты: (10, 603), (97, 719), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_621_mask_2_bicycle.png
+  Маска 3: motorcycle, Уверенность: 0.32, Координаты: (159, 513), (225, 606), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_621_mask_3_motorcycle.png
+
+Кадр: frame_667.jpg
+  Маска 0: person, Уверенность: 0.48, Координаты: (1343, 579), (1367, 621), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_667_mask_0_person.png
+
+Кадр: frame_759.jpg
+  Маска 0: car, Уверенность: 0.80, Координаты: (1100, 238), (1146, 279), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_759_mask_0_car.png
+
+Кадр: frame_782.jpg
+  Маска 0: car, Уверенность: 0.78, Координаты: (1119, 293), (1206, 369), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_782_mask_0_car.png
+
+Кадр: frame_805.jpg
+  Маска 0: car, Уверенность: 0.75, Координаты: (1311, 475), (1908, 793), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_805_mask_0_car.png
+
+Кадр: frame_1058.jpg
+  Маска 0: boat, Уверенность: 0.66, Координаты: (207, 279), (394, 727), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1058_mask_0_boat.png
+  Маска 1: person, Уверенность: 0.61, Координаты: (217, 742), (299, 796), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1058_mask_1_person.png
+  Маска 2: person, Уверенность: 0.44, Координаты: (369, 222), (466, 338), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1058_mask_2_person.png
+
+Кадр: frame_1081.jpg
+  Маска 0: boat, Уверенность: 0.73, Координаты: (252, 213), (437, 653), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1081_mask_0_boat.png
+  Маска 1: person, Уверенность: 0.67, Координаты: (203, 689), (292, 793), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1081_mask_1_person.png
+  Маска 2: person, Уверенность: 0.55, Координаты: (406, 152), (504, 293), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1081_mask_2_person.png
+
+Кадр: frame_1104.jpg
+  Маска 0: person, Уверенность: 0.76, Координаты: (238, 616), (319, 713), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1104_mask_0_person.png
+  Маска 1: boat, Уверенность: 0.76, Координаты: (298, 153), (470, 591), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1104_mask_1_boat.png
+  Маска 2: person, Уверенность: 0.73, Координаты: (444, 84), (536, 224), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1104_mask_2_person.png
+
+Кадр: frame_1127.jpg
+  Маска 0: boat, Уверенность: 0.52, Координаты: (916, 570), (1032, 739), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1127_mask_0_boat.png
+  Маска 1: person, Уверенность: 0.38, Координаты: (940, 603), (989, 674), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1127_mask_1_person.png
+  Маска 2: boat, Уверенность: 0.28, Координаты: (934, 627), (1000, 702), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1127_mask_2_boat.png
+
+Кадр: frame_1150.jpg
+  Маска 0: person, Уверенность: 0.59, Координаты: (944, 448), (1002, 557), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1150_mask_0_person.png
+
+Кадр: frame_1173.jpg
+  Маска 0: person, Уверенность: 0.69, Координаты: (961, 381), (996, 460), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1173_mask_0_person.png
+
+Кадр: frame_1196.jpg
+  Маска 0: person, Уверенность: 0.45, Координаты: (951, 334), (987, 393), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1196_mask_0_person.png
+  Маска 1: bird, Уверенность: 0.42, Координаты: (951, 335), (987, 393), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1196_mask_1_bird.png
+
+Кадр: frame_1219.jpg
+  Маска 0: person, Уверенность: 0.58, Координаты: (950, 295), (978, 338), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1219_mask_0_person.png
+
+Кадр: frame_1311.jpg
+  Маска 0: bird, Уверенность: 0.35, Координаты: (986, 486), (1164, 572), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1311_mask_0_bird.png
+  Маска 1: bird, Уверенность: 0.29, Координаты: (931, 666), (1034, 717), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1311_mask_1_bird.png
+
+Кадр: frame_1334.jpg
+  Маска 0: person, Уверенность: 0.77, Координаты: (727, 406), (790, 560), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1334_mask_0_person.png
+  Маска 1: backpack, Уверенность: 0.28, Координаты: (725, 418), (777, 483), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1334_mask_1_backpack.png
+  Маска 2: surfboard, Уверенность: 0.27, Координаты: (708, 549), (844, 563), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1334_mask_2_surfboard.png
+
+Кадр: frame_1357.jpg
+  Маска 0: person, Уверенность: 0.82, Координаты: (674, 399), (738, 556), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1357_mask_0_person.png
+
+Кадр: frame_1380.jpg
+  Маска 0: person, Уверенность: 0.75, Координаты: (613, 393), (668, 551), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1380_mask_0_person.png
+
+Кадр: frame_1403.jpg
+  Маска 0: person, Уверенность: 0.83, Координаты: (509, 390), (566, 549), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1403_mask_0_person.png
+
+Кадр: frame_1426.jpg
+  Маска 0: person, Уверенность: 0.48, Координаты: (1708, 212), (1742, 265), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1426_mask_0_person.png
+
+Кадр: frame_1449.jpg
+  Маска 0: person, Уверенность: 0.56, Координаты: (1880, 268), (1918, 364), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1449_mask_0_person.png
+  Маска 1: boat, Уверенность: 0.49, Координаты: (1734, 76), (1919, 478), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1449_mask_1_boat.png
+
+Кадр: frame_1541.jpg
+  Маска 0: person, Уверенность: 0.90, Координаты: (1459, 260), (1607, 517), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1541_mask_0_person.png
+  Маска 1: person, Уверенность: 0.86, Координаты: (1179, 380), (1306, 602), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1541_mask_1_person.png
+  Маска 2: person, Уверенность: 0.83, Координаты: (1300, 370), (1372, 570), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1541_mask_2_person.png
+
+Кадр: frame_1564.jpg
+  Маска 0: person, Уверенность: 0.88, Координаты: (1409, 273), (1558, 530), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1564_mask_0_person.png
+  Маска 1: person, Уверенность: 0.84, Координаты: (1120, 389), (1242, 614), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1564_mask_1_person.png
+  Маска 2: person, Уверенность: 0.83, Координаты: (1260, 377), (1328, 585), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1564_mask_2_person.png
+
+Кадр: frame_1587.jpg
+  Маска 0: person, Уверенность: 0.84, Координаты: (750, 210), (872, 652), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1587_mask_0_person.png
+  Маска 1: person, Уверенность: 0.75, Координаты: (856, 244), (1039, 687), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1587_mask_1_person.png
+  Маска 2: backpack, Уверенность: 0.64, Координаты: (938, 317), (1027, 465), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1587_mask_2_backpack.png
+  Маска 3: backpack, Уверенность: 0.44, Координаты: (753, 306), (827, 421), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1587_mask_3_backpack.png
+  Маска 4: backpack, Уверенность: 0.33, Координаты: (890, 312), (1028, 477), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1587_mask_4_backpack.png
+
+Кадр: frame_1610.jpg
+  Маска 0: person, Уверенность: 0.90, Координаты: (952, 252), (1164, 733), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1610_mask_0_person.png
+  Маска 1: person, Уверенность: 0.81, Координаты: (743, 196), (877, 677), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1610_mask_1_person.png
+  Маска 2: backpack, Уверенность: 0.78, Координаты: (1002, 326), (1108, 504), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1610_mask_2_backpack.png
+  Маска 3: skis, Уверенность: 0.65, Координаты: (740, 639), (894, 706), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1610_mask_3_skis.png
+  Маска 4: skis, Уверенность: 0.64, Координаты: (945, 670), (1163, 747), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1610_mask_4_skis.png
+  Маска 5: backpack, Уверенность: 0.63, Координаты: (749, 302), (842, 425), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1610_mask_5_backpack.png
+  Маска 6: person, Уверенность: 0.49, Координаты: (932, 224), (1035, 407), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1610_mask_6_person.png
+  Маска 7: person, Уверенность: 0.40, Координаты: (931, 224), (1035, 693), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1610_mask_7_person.png
+
+Кадр: frame_1633.jpg
+  Маска 0: person, Уверенность: 0.90, Координаты: (1017, 237), (1253, 791), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1633_mask_0_person.png
+  Маска 1: person, Уверенность: 0.90, Координаты: (661, 176), (878, 730), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1633_mask_1_person.png
+  Маска 2: person, Уверенность: 0.81, Координаты: (856, 198), (1051, 712), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1633_mask_2_person.png
+  Маска 3: backpack, Уверенность: 0.79, Координаты: (1066, 320), (1183, 505), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1633_mask_3_backpack.png
+  Маска 4: backpack, Уверенность: 0.77, Координаты: (663, 301), (776, 443), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1633_mask_4_backpack.png
+  Маска 5: backpack, Уверенность: 0.72, Координаты: (965, 270), (1055, 473), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1633_mask_5_backpack.png
+  Маска 6: snowboard, Уверенность: 0.65, Координаты: (876, 640), (1022, 718), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1633_mask_6_snowboard.png
+  Маска 7: snowboard, Уверенность: 0.40, Координаты: (693, 681), (857, 772), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1633_mask_7_snowboard.png
+  Маска 8: skis, Уверенность: 0.37, Координаты: (1013, 702), (1168, 795), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1633_mask_8_skis.png
+  Маска 9: skis, Уверенность: 0.28, Координаты: (677, 680), (858, 773), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1633_mask_9_skis.png
+
+Кадр: frame_1656.jpg
+  Маска 0: person, Уверенность: 0.92, Координаты: (1054, 170), (1321, 789), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1656_mask_0_person.png
+  Маска 1: person, Уверенность: 0.91, Координаты: (820, 163), (1041, 774), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1656_mask_1_person.png
+  Маска 2: person, Уверенность: 0.89, Координаты: (592, 180), (808, 790), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1656_mask_2_person.png
+  Маска 3: backpack, Уверенность: 0.73, Координаты: (1070, 267), (1200, 482), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1656_mask_3_backpack.png
+  Маска 4: backpack, Уверенность: 0.67, Координаты: (893, 251), (1038, 503), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1656_mask_4_backpack.png
+  Маска 5: backpack, Уверенность: 0.57, Координаты: (600, 278), (741, 470), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1656_mask_5_backpack.png
+  Маска 6: snowboard, Уверенность: 0.36, Координаты: (846, 668), (1032, 781), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1656_mask_6_snowboard.png
+
+Кадр: frame_1679.jpg
+  Маска 0: person, Уверенность: 0.94, Координаты: (629, 259), (917, 789), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1679_mask_0_person.png
+  Маска 1: person, Уверенность: 0.88, Координаты: (906, 229), (1191, 794), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1679_mask_1_person.png
+  Маска 2: person, Уверенность: 0.84, Координаты: (1185, 238), (1451, 792), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1679_mask_2_person.png
+  Маска 3: backpack, Уверенность: 0.81, Координаты: (1006, 349), (1191, 690), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1679_mask_3_backpack.png
+  Маска 4: backpack, Уверенность: 0.79, Координаты: (1266, 361), (1457, 669), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1679_mask_4_backpack.png
+  Маска 5: backpack, Уверенность: 0.68, Координаты: (696, 385), (878, 663), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1679_mask_5_backpack.png
+
+Кадр: frame_1702.jpg
+  Маска 0: person, Уверенность: 0.88, Координаты: (1350, 431), (1705, 789), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1702_mask_0_person.png
+  Маска 1: person, Уверенность: 0.71, Координаты: (1623, 315), (1918, 792), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1702_mask_1_person.png
+  Маска 2: backpack, Уверенность: 0.57, Координаты: (1401, 635), (1664, 795), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1702_mask_2_backpack.png
+  Маска 3: backpack, Уверенность: 0.47, Координаты: (1692, 481), (1919, 793), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1702_mask_3_backpack.png
+  Маска 4: backpack, Уверенность: 0.36, Координаты: (1782, 488), (1919, 792), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1702_mask_4_backpack.png
+
+Кадр: frame_1794.jpg
+  Маска 0: airplane, Уверенность: 0.45, Координаты: (610, 120), (1108, 792), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_1794_mask_0_airplane.png
+
+Кадр: frame_2185.jpg
+  Маска 0: person, Уверенность: 0.79, Координаты: (1221, 394), (1277, 523), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2185_mask_0_person.png
+  Маска 1: airplane, Уверенность: 0.25, Координаты: (1136, 262), (1347, 322), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2185_mask_1_airplane.png
+
+Кадр: frame_2208.jpg
+  Маска 0: person, Уверенность: 0.88, Координаты: (1193, 418), (1295, 601), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2208_mask_0_person.png
+  Маска 1: airplane, Уверенность: 0.75, Координаты: (1310, 260), (1551, 337), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2208_mask_1_airplane.png
+  Маска 2: airplane, Уверенность: 0.58, Координаты: (1069, 235), (1190, 267), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2208_mask_2_airplane.png
+
+Кадр: frame_2231.jpg
+  Маска 0: person, Уверенность: 0.82, Координаты: (1161, 441), (1227, 628), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2231_mask_0_person.png
+  Маска 1: airplane, Уверенность: 0.80, Координаты: (1511, 272), (1797, 357), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2231_mask_1_airplane.png
+
+Кадр: frame_2254.jpg
+  Маска 0: person, Уверенность: 0.51, Координаты: (0, 530), (66, 585), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2254_mask_0_person.png
+  Маска 1: truck, Уверенность: 0.47, Координаты: (0, 502), (217, 779), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2254_mask_1_truck.png
+  Маска 2: car, Уверенность: 0.43, Координаты: (0, 502), (217, 779), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2254_mask_2_car.png
+
+Кадр: frame_2277.jpg
+  Маска 0: car, Уверенность: 0.50, Координаты: (363, 474), (598, 690), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2277_mask_0_car.png
+  Маска 1: truck, Уверенность: 0.48, Координаты: (362, 474), (597, 690), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2277_mask_1_truck.png
+  Маска 2: person, Уверенность: 0.36, Координаты: (417, 496), (478, 542), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2277_mask_2_person.png
+
+Кадр: frame_2300.jpg
+  Маска 0: car, Уверенность: 0.53, Координаты: (799, 424), (1013, 609), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2300_mask_0_car.png
+
+Кадр: frame_2323.jpg
+  Маска 0: car, Уверенность: 0.59, Координаты: (1175, 415), (1350, 572), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2323_mask_0_car.png
+
+Кадр: frame_2346.jpg
+  Маска 0: car, Уверенность: 0.60, Координаты: (1351, 425), (1492, 562), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2346_mask_0_car.png
+  Маска 1: person, Уверенность: 0.32, Координаты: (1382, 438), (1424, 477), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2346_mask_1_person.png
+
+Кадр: frame_2369.jpg
+  Маска 0: car, Уверенность: 0.76, Координаты: (1460, 437), (1560, 559), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2369_mask_0_car.png
+  Маска 1: person, Уверенность: 0.30, Координаты: (1477, 447), (1518, 489), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2369_mask_1_person.png
+
+Кадр: frame_2392.jpg
+  Маска 0: car, Уверенность: 0.40, Координаты: (1380, 454), (1479, 562), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2392_mask_0_car.png
+
+Кадр: frame_2484.jpg
+  Маска 0: skis, Уверенность: 0.66, Координаты: (957, 565), (1063, 614), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2484_mask_0_skis.png
+  Маска 1: person, Уверенность: 0.55, Координаты: (993, 534), (1057, 594), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2484_mask_1_person.png
+
+Кадр: frame_2507.jpg
+  Маска 0: person, Уверенность: 0.80, Координаты: (1034, 655), (1083, 745), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2507_mask_0_person.png
+  Маска 1: skis, Уверенность: 0.26, Координаты: (1039, 734), (1090, 764), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2507_mask_1_skis.png
+
+Кадр: frame_2553.jpg
+  Маска 0: person, Уверенность: 0.60, Координаты: (903, 169), (929, 225), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2553_mask_0_person.png
+  Маска 1: person, Уверенность: 0.54, Координаты: (856, 174), (879, 220), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2553_mask_1_person.png
+
+Кадр: frame_2576.jpg
+  Маска 0: person, Уверенность: 0.70, Координаты: (942, 195), (995, 275), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2576_mask_0_person.png
+  Маска 1: motorcycle, Уверенность: 0.66, Координаты: (948, 228), (994, 306), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2576_mask_1_motorcycle.png
+
+Кадр: frame_2599.jpg
+  Маска 0: motorcycle, Уверенность: 0.82, Координаты: (891, 301), (976, 445), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2599_mask_0_motorcycle.png
+  Маска 1: person, Уверенность: 0.49, Координаты: (894, 249), (969, 322), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2599_mask_1_person.png
+
+Кадр: frame_2622.jpg
+  Маска 0: motorcycle, Уверенность: 0.57, Координаты: (516, 469), (606, 518), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2622_mask_0_motorcycle.png
+
+Кадр: frame_2691.jpg
+  Маска 0: person, Уверенность: 0.83, Координаты: (907, 155), (975, 260), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2691_mask_0_person.png
+
+Кадр: frame_2714.jpg
+  Маска 0: person, Уверенность: 0.82, Координаты: (862, 140), (982, 284), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2714_mask_0_person.png
+  Маска 1: backpack, Уверенность: 0.49, Координаты: (928, 145), (972, 198), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2714_mask_1_backpack.png
+
+Кадр: frame_2737.jpg
+  Маска 0: person, Уверенность: 0.79, Координаты: (914, 161), (995, 309), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2737_mask_0_person.png
+  Маска 1: backpack, Уверенность: 0.67, Координаты: (969, 163), (1005, 221), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2737_mask_1_backpack.png
+
+Кадр: frame_2760.jpg
+  Маска 0: horse, Уверенность: 0.88, Координаты: (1008, 425), (1175, 575), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2760_mask_0_horse.png
+  Маска 1: person, Уверенность: 0.77, Координаты: (1074, 398), (1150, 548), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2760_mask_1_person.png
+
+Кадр: frame_2783.jpg
+  Маска 0: horse, Уверенность: 0.90, Координаты: (984, 415), (1184, 570), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2783_mask_0_horse.png
+  Маска 1: person, Уверенность: 0.78, Координаты: (1056, 382), (1151, 524), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2783_mask_1_person.png
+  Маска 2: frisbee, Уверенность: 0.68, Координаты: (1003, 558), (1146, 638), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2783_mask_2_frisbee.png
+
+Кадр: frame_2806.jpg
+  Маска 0: horse, Уверенность: 0.91, Координаты: (973, 437), (1168, 599), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2806_mask_0_horse.png
+  Маска 1: person, Уверенность: 0.77, Координаты: (1053, 400), (1127, 543), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2806_mask_1_person.png
+
+Кадр: frame_2829.jpg
+  Маска 0: horse, Уверенность: 0.88, Координаты: (949, 464), (1167, 632), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2829_mask_0_horse.png
+  Маска 1: person, Уверенность: 0.75, Координаты: (1047, 435), (1130, 590), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2829_mask_1_person.png
+
+Кадр: frame_2852.jpg
+  Маска 0: train, Уверенность: 0.38, Координаты: (758, 455), (897, 568), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2852_mask_0_train.png
+
+Кадр: frame_2875.jpg
+  Маска 0: car, Уверенность: 0.77, Координаты: (746, 457), (867, 578), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2875_mask_0_car.png
+
+Кадр: frame_2898.jpg
+  Маска 0: car, Уверенность: 0.75, Координаты: (749, 458), (871, 579), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2898_mask_0_car.png
+
+Кадр: frame_2921.jpg
+  Маска 0: car, Уверенность: 0.78, Координаты: (768, 458), (894, 578), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2921_mask_0_car.png
+
+Кадр: frame_2944.jpg
+  Маска 0: car, Уверенность: 0.67, Координаты: (801, 463), (917, 583), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2944_mask_0_car.png
+
+Кадр: frame_2967.jpg
+  Маска 0: car, Уверенность: 0.67, Координаты: (798, 471), (939, 605), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2967_mask_0_car.png
+
+Кадр: frame_2990.jpg
+  Маска 0: car, Уверенность: 0.81, Координаты: (766, 470), (934, 600), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_2990_mask_0_car.png
+
+Кадр: frame_3013.jpg
+  Маска 0: car, Уверенность: 0.77, Координаты: (726, 482), (909, 613), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_3013_mask_0_car.png
+
+Кадр: frame_3036.jpg
+  Маска 0: car, Уверенность: 0.82, Координаты: (669, 571), (874, 722), Путь к маске: output_images_video1.mp4_8_instanse/mask_output/frame_3036_mask_0_car.png
+

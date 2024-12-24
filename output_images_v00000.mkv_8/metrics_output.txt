@@ -1,0 +1,100 @@
+﻿Кадр: frame_0.jpg
+  Маска 0: traffic light, Уверенность: 0.67, Координаты: (846, 1), (1918, 1025), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_0_mask_0_traffic light.png
+
+Кадр: frame_25.jpg
+  Маска 0: traffic light, Уверенность: 0.71, Координаты: (846, 1), (1917, 1025), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_25_mask_0_traffic light.png
+
+Кадр: frame_50.jpg
+  Маска 0: traffic light, Уверенность: 0.42, Координаты: (843, 1), (1918, 1027), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_50_mask_0_traffic light.png
+
+Кадр: frame_75.jpg
+  Маска 0: traffic light, Уверенность: 0.39, Координаты: (845, 0), (1917, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_75_mask_0_traffic light.png
+
+Кадр: frame_100.jpg
+  Маска 0: traffic light, Уверенность: 0.55, Координаты: (844, 1), (1918, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_100_mask_0_traffic light.png
+
+Кадр: frame_125.jpg
+  Маска 0: traffic light, Уверенность: 0.33, Координаты: (842, 0), (1917, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_125_mask_0_traffic light.png
+
+Кадр: frame_150.jpg
+  Маска 0: traffic light, Уверенность: 0.47, Координаты: (846, 1), (1918, 1025), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_150_mask_0_traffic light.png
+
+Кадр: frame_175.jpg
+  Маска 0: traffic light, Уверенность: 0.41, Координаты: (843, 0), (1918, 1025), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_175_mask_0_traffic light.png
+
+Кадр: frame_200.jpg
+  Маска 0: traffic light, Уверенность: 0.52, Координаты: (846, 1), (1918, 1025), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_200_mask_0_traffic light.png
+
+Кадр: frame_225.jpg
+  Маска 0: traffic light, Уверенность: 0.59, Координаты: (844, 1), (1917, 1024), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_225_mask_0_traffic light.png
+
+Кадр: frame_250.jpg
+  Маска 0: traffic light, Уверенность: 0.56, Координаты: (847, 1), (1918, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_250_mask_0_traffic light.png
+
+Кадр: frame_275.jpg
+  Маска 0: traffic light, Уверенность: 0.49, Координаты: (846, 1), (1918, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_275_mask_0_traffic light.png
+
+Кадр: frame_300.jpg
+  Маска 0: traffic light, Уверенность: 0.40, Координаты: (845, 1), (1918, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_300_mask_0_traffic light.png
+
+Кадр: frame_325.jpg
+  Маска 0: traffic light, Уверенность: 0.46, Координаты: (845, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_325_mask_0_traffic light.png
+
+Кадр: frame_350.jpg
+  Маска 0: traffic light, Уверенность: 0.32, Координаты: (845, 1), (1918, 1027), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_350_mask_0_traffic light.png
+
+Кадр: frame_375.jpg
+  Маска 0: traffic light, Уверенность: 0.48, Координаты: (846, 1), (1917, 1025), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_375_mask_0_traffic light.png
+
+Кадр: frame_400.jpg
+  Маска 0: traffic light, Уверенность: 0.26, Координаты: (847, 1), (1917, 1024), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_400_mask_0_traffic light.png
+
+Кадр: frame_425.jpg
+  Маска 0: traffic light, Уверенность: 0.43, Координаты: (847, 1), (1917, 1027), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_425_mask_0_traffic light.png
+
+Кадр: frame_450.jpg
+  Маска 0: traffic light, Уверенность: 0.34, Координаты: (846, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_450_mask_0_traffic light.png
+
+Кадр: frame_475.jpg
+  Маска 0: traffic light, Уверенность: 0.45, Координаты: (844, 1), (1918, 1027), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_475_mask_0_traffic light.png
+
+Кадр: frame_500.jpg
+  Маска 0: traffic light, Уверенность: 0.43, Координаты: (844, 1), (1917, 1027), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_500_mask_0_traffic light.png
+
+Кадр: frame_525.jpg
+  Маска 0: traffic light, Уверенность: 0.41, Координаты: (842, 1), (1918, 1028), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_525_mask_0_traffic light.png
+
+Кадр: frame_550.jpg
+  Маска 0: traffic light, Уверенность: 0.41, Координаты: (842, 1), (1917, 1027), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_550_mask_0_traffic light.png
+
+Кадр: frame_575.jpg
+  Маска 0: traffic light, Уверенность: 0.42, Координаты: (843, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_575_mask_0_traffic light.png
+
+Кадр: frame_625.jpg
+  Маска 0: traffic light, Уверенность: 0.40, Координаты: (846, 1), (1917, 1025), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_625_mask_0_traffic light.png
+  Маска 1: traffic light, Уверенность: 0.32, Координаты: (839, 0), (1216, 800), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_625_mask_1_traffic light.png
+
+Кадр: frame_650.jpg
+  Маска 0: traffic light, Уверенность: 0.30, Координаты: (845, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_650_mask_0_traffic light.png
+
+Кадр: frame_700.jpg
+  Маска 0: traffic light, Уверенность: 0.59, Координаты: (844, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_700_mask_0_traffic light.png
+
+Кадр: frame_725.jpg
+  Маска 0: traffic light, Уверенность: 0.41, Координаты: (841, 1), (1917, 1025), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_725_mask_0_traffic light.png
+  Маска 1: skis, Уверенность: 0.33, Координаты: (48, 2), (241, 1011), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_725_mask_1_skis.png
+  Маска 2: traffic light, Уверенность: 0.31, Координаты: (838, 0), (1216, 791), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_725_mask_2_traffic light.png
+
+Кадр: frame_750.jpg
+  Маска 0: traffic light, Уверенность: 0.40, Координаты: (840, 1), (1917, 1025), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_750_mask_0_traffic light.png
+  Маска 1: car, Уверенность: 0.28, Координаты: (1731, 849), (1828, 880), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_750_mask_1_car.png
+
+Кадр: frame_775.jpg
+  Маска 0: traffic light, Уверенность: 0.32, Координаты: (842, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_775_mask_0_traffic light.png
+
+Кадр: frame_800.jpg
+  Маска 0: traffic light, Уверенность: 0.34, Координаты: (840, 1), (1917, 1026), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_800_mask_0_traffic light.png
+
+Кадр: frame_825.jpg
+  Маска 0: traffic light, Уверенность: 0.31, Координаты: (841, 1), (1917, 1027), Путь к маске: output_images_v00000.mkv_8/mask_output/frame_825_mask_0_traffic light.png
+
